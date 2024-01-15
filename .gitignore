@@ -1,0 +1,50 @@
+# Additional
+*.proto.gz
+*.gz
+output*
+*OuterClass.java
+*.tachibk
+
+
+# Maven
+target/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# IntelliJ
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Compiled Java class files
+*.class
+
+# Compiled Java native binaries (DLLs, SOs, etc.)
+*.dll
+*.so
+*.dylib
+
+# Log files
+*.log
+
+# BlueJ files
+bluej/
+
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code specific files
+.vscode/
+
