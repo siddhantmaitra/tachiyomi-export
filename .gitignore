@@ -5,6 +5,7 @@ output*
 *OuterClass.java
 *.tachibk
 *.zip
+experiments/actual_data
 
 
 # Maven
