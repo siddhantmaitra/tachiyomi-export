@@ -1,0 +1,637 @@
+[
+  {
+    "manga_id": -8817821373131467792,
+    "category_id": 3,
+    "sort_key": 0,
+    "created_at": 1705398078838,
+    "manga": {
+      "id": -8817821373131467792,
+      "title": "Yofukashi no Uta",
+      "url": "\/manga\/Yofukashi-no-Uta",
+      "public_url": "https:\/\/mangasee123.com\/manga\/Yofukashi-no-Uta",
+      "rating": -1,
+      "nsfw": false,
+      "cover_url": "https:\/\/temp.compsci88.com\/cover\/Yofukashi-no-Uta.jpg",
+      "state": "ONGOING",
+      "author": "Kotoyama",
+      "source": "MANGASEE",
+      "tags": [
+        {
+          "id": -5433713487685248018,
+          "title": "Psychological",
+          "key": "Psychological",
+          "source": "MANGASEE"
+        },
+        {
+          "id": -4613318334715533500,
+          "title": "Romance",
+          "key": "Romance",
+          "source": "MANGASEE"
+        },
+        {
+          "id": 54674139576217696,
+          "title": "Comedy",
+          "key": "Comedy",
+          "source": "MANGASEE"
+        },
+        {
+          "id": 1248207623193645639,
+          "title": "Shounen",
+          "key": "Shounen",
+          "source": "MANGASEE"
+        },
+        {
+          "id": 5638485635176648203,
+          "title": "Supernatural",
+          "key": "Supernatural",
+          "source": "MANGASEE"
+        },
+        {
+          "id": 7374677100385337964,
+          "title": "Slice of Life",
+          "key": "Slice of Life",
+          "source": "MANGASEE"
+        }
+      ]
+    }
+  },
+  {
+    "manga_id": 7177263973146190523,
+    "category_id": 3,
+    "sort_key": 0,
+    "created_at": 1705398046259,
+    "manga": {
+      "id": 7177263973146190523,
+      "title": "Hajime No Ippo",
+      "url": "\/manga\/Hajime-No-Ippo",
+      "public_url": "https:\/\/mangasee123.com\/manga\/Hajime-No-Ippo",
+      "rating": -1,
+      "nsfw": false,
+      "cover_url": "https:\/\/temp.compsci88.com\/cover\/Hajime-No-Ippo.jpg",
+      "state": "ONGOING",
+      "author": "MORIKAWA Jyoji",
+      "source": "MANGASEE",
+      "tags": [
+        {
+          "id": -4459073908270174660,
+          "title": "Drama",
+          "key": "Drama",
+          "source": "MANGASEE"
+        },
+        {
+          "id": -463825349033486790,
+          "title": "Sports",
+          "key": "Sports",
+          "source": "MANGASEE"
+        },
+        {
+          "id": 54674139576217696,
+          "title": "Comedy",
+          "key": "Comedy",
+          "source": "MANGASEE"
+        },
+        {
+          "id": 1248207623193645639,
+          "title": "Shounen",
+          "key": "Shounen",
+          "source": "MANGASEE"
+        },
+        {
+          "id": 6561165821597613411,
+          "title": "Action",
+          "key": "Action",
+          "source": "MANGASEE"
+        }
+      ]
+    }
+  },
+  {
+    "manga_id": 4155086950380943595,
+    "category_id": 3,
+    "sort_key": 0,
+    "created_at": 1705398026815,
+    "manga": {
+      "id": 4155086950380943595,
+      "title": "Mato Seihei No Slave",
+      "url": "\/manga\/Mato-Seihei-No-Slave",
+      "public_url": "https:\/\/mangasee123.com\/manga\/Mato-Seihei-No-Slave",
+      "rating": -1,
+      "nsfw": false,
+      "cover_url": "https:\/\/temp.compsci88.com\/cover\/Mato-Seihei-No-Slave.jpg",
+      "state": "ONGOING",
+      "author": "Takahiro TAKEMURA Youhei",
+      "source": "MANGASEE",
+      "tags": [
+        {
+          "id": -4950468203833887437,
+          "title": "Adventure",
+          "key": "Adventure",
+          "source": "MANGASEE"
+        },
+        {
+          "id": -4819946389117103331,
+          "title": "Fantasy",
+          "key": "Fantasy",
+          "source": "MANGASEE"
+        },
+        {
+          "id": -4613318334715533500,
+          "title": "Romance",
+          "key": "Romance",
+          "source": "MANGASEE"
+        },
+        {
+          "id": -4459073908270174660,
+          "title": "Drama",
+          "key": "Drama",
+          "source": "MANGASEE"
+        },
+        {
+          "id": 54674139576217696,
+          "title": "Comedy",
+          "key": "Comedy",
+          "source": "MANGASEE"
+        },
+        {
+          "id": 1248207623193645639,
+          "title": "Shounen",
+          "key": "Shounen",
+          "source": "MANGASEE"
+        },
+        {
+          "id": 4002580857364927561,
+          "title": "Adult",
+          "key": "Adult",
+          "source": "MANGASEE"
+        },
+        {
+          "id": 6459572018675407074,
+          "title": "Harem",
+          "key": "Harem",
+          "source": "MANGASEE"
+        },
+        {
+          "id": 6561165821597613411,
+          "title": "Action",
+          "key": "Action",
+          "source": "MANGASEE"
+        },
+        {
+          "id": 8190460961681812541,
+          "title": "Ecchi",
+          "key": "Ecchi",
+          "source": "MANGASEE"
+        }
+      ]
+    }
+  },
+  {
+    "manga_id": -3860396867596837842,
+    "category_id": 3,
+    "sort_key": 0,
+    "created_at": 1705397996225,
+    "manga": {
+      "id": -3860396867596837842,
+      "title": "Oshi no Ko",
+      "url": "\/manga\/Oshi-no-Ko",
+      "public_url": "https:\/\/mangasee123.com\/manga\/Oshi-no-Ko",
+      "rating": -1,
+      "nsfw": false,
+      "cover_url": "https:\/\/temp.compsci88.com\/cover\/Oshi-no-Ko.jpg",
+      "state": "ONGOING",
+      "author": "AKASAKA Aka YOKOYARI Mengo",
+      "source": "MANGASEE",
+      "tags": [
+        {
+          "id": -8122365840402846428,
+          "title": "Mystery",
+          "key": "Mystery",
+          "source": "MANGASEE"
+        },
+        {
+          "id": -5433713487685248018,
+          "title": "Psychological",
+          "key": "Psychological",
+          "source": "MANGASEE"
+        },
+        {
+          "id": -4459073908270174660,
+          "title": "Drama",
+          "key": "Drama",
+          "source": "MANGASEE"
+        },
+        {
+          "id": 54674139576217696,
+          "title": "Comedy",
+          "key": "Comedy",
+          "source": "MANGASEE"
+        },
+        {
+          "id": 2804289251981885689,
+          "title": "Seinen",
+          "key": "Seinen",
+          "source": "MANGASEE"
+        },
+        {
+          "id": 5912024875077291565,
+          "title": "Tragedy",
+          "key": "Tragedy",
+          "source": "MANGASEE"
+        },
+        {
+          "id": 7374677100385337964,
+          "title": "Slice of Life",
+          "key": "Slice of Life",
+          "source": "MANGASEE"
+        }
+      ]
+    }
+  },
+  {
+    "manga_id": -5153202612534396977,
+    "category_id": 2,
+    "sort_key": 0,
+    "created_at": 1705397971652,
+    "manga": {
+      "id": -5153202612534396977,
+      "title": "Yofukashi no Uta",
+      "url": "259dfd8a-f06a-4825-8fa6-a2dcd7274230",
+      "public_url": "https:\/\/mangadex.org\/title\/259dfd8a-f06a-4825-8fa6-a2dcd7274230",
+      "rating": -1,
+      "nsfw": false,
+      "cover_url": "https:\/\/uploads.mangadex.org\/covers\/259dfd8a-f06a-4825-8fa6-a2dcd7274230\/bd573ff3-2cf0-4ed2-968d-da046d26f3b2.jpg.256.jpg",
+      "large_cover_url": "https:\/\/uploads.mangadex.org\/covers\/259dfd8a-f06a-4825-8fa6-a2dcd7274230\/bd573ff3-2cf0-4ed2-968d-da046d26f3b2.jpg",
+      "state": "ONGOING",
+      "author": "Kotoyama",
+      "source": "MANGADEX",
+      "tags": [
+        {
+          "id": -8528384497486558416,
+          "title": "Drama",
+          "key": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+          "source": "MANGADEX"
+        },
+        {
+          "id": -3909958859444372571,
+          "title": "Psychological",
+          "key": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+          "source": "MANGADEX"
+        },
+        {
+          "id": -1080530309821200554,
+          "title": "Supernatural",
+          "key": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+          "source": "MANGADEX"
+        },
+        {
+          "id": -541819195229643906,
+          "title": "Slice of Life",
+          "key": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+          "source": "MANGADEX"
+        },
+        {
+          "id": -167962970138474557,
+          "title": "Vampires",
+          "key": "d7d1730f-6eb0-4ba6-9437-602cac38664c",
+          "source": "MANGADEX"
+        },
+        {
+          "id": 633872134228518919,
+          "title": "Action",
+          "key": "391b0423-d847-456f-aff0-8b0cfc03066b",
+          "source": "MANGADEX"
+        },
+        {
+          "id": 858720844301978413,
+          "title": "Romance",
+          "key": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+          "source": "MANGADEX"
+        },
+        {
+          "id": 7012401667787147793,
+          "title": "Award Winning",
+          "key": "0a39b5a1-b235-4886-a747-1d05d216532d",
+          "source": "MANGADEX"
+        },
+        {
+          "id": 8598080631039565048,
+          "title": "Comedy",
+          "key": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+          "source": "MANGADEX"
+        }
+      ]
+    }
+  },
+  {
+    "manga_id": -7085175691795522021,
+    "category_id": 2,
+    "sort_key": 0,
+    "created_at": 1705397951172,
+    "manga": {
+      "id": -7085175691795522021,
+      "title": "Tensei Shitara Slime Datta Ken: Clayman Revenge",
+      "url": "61d81be6-2759-4cc4-9815-7952a3449149",
+      "public_url": "https:\/\/mangadex.org\/title\/61d81be6-2759-4cc4-9815-7952a3449149",
+      "rating": -1,
+      "nsfw": false,
+      "cover_url": "https:\/\/uploads.mangadex.org\/covers\/61d81be6-2759-4cc4-9815-7952a3449149\/867f2a2d-bd9e-4c86-8a31-f76820cea2b5.jpg.256.jpg",
+      "large_cover_url": "https:\/\/uploads.mangadex.org\/covers\/61d81be6-2759-4cc4-9815-7952a3449149\/867f2a2d-bd9e-4c86-8a31-f76820cea2b5.jpg",
+      "state": "ONGOING",
+      "author": "Fuse",
+      "source": "MANGADEX",
+      "tags": [
+        {
+          "id": -8528384497486558416,
+          "title": "Drama",
+          "key": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+          "source": "MANGADEX"
+        },
+        {
+          "id": -6652525621421748139,
+          "title": "Monsters",
+          "key": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+          "source": "MANGADEX"
+        },
+        {
+          "id": -5619840405293151062,
+          "title": "Monster Girls",
+          "key": "dd1f77c5-dea9-4e2b-97ae-224af09caf99",
+          "source": "MANGADEX"
+        },
+        {
+          "id": -1762217337168395795,
+          "title": "Survival",
+          "key": "5fff9cde-849c-4d78-aab0-0d52b2ee1d25",
+          "source": "MANGADEX"
+        },
+        {
+          "id": -421896851834025825,
+          "title": "Magic",
+          "key": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+          "source": "MANGADEX"
+        },
+        {
+          "id": -354719849889948261,
+          "title": "Delinquents",
+          "key": "da2d50ca-3018-4cc0-ac7a-6b7d472a29ea",
+          "source": "MANGADEX"
+        },
+        {
+          "id": -167962970138474557,
+          "title": "Vampires",
+          "key": "d7d1730f-6eb0-4ba6-9437-602cac38664c",
+          "source": "MANGADEX"
+        },
+        {
+          "id": 633872134228518919,
+          "title": "Action",
+          "key": "391b0423-d847-456f-aff0-8b0cfc03066b",
+          "source": "MANGADEX"
+        },
+        {
+          "id": 1386499417335243935,
+          "title": "Time Travel",
+          "key": "292e862b-2d17-4062-90a2-0356caa4ae27",
+          "source": "MANGADEX"
+        },
+        {
+          "id": 2775500103261125971,
+          "title": "Fantasy",
+          "key": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+          "source": "MANGADEX"
+        },
+        {
+          "id": 7136683966462009152,
+          "title": "Isekai",
+          "key": "ace04997-f6bd-436e-b261-779182193d3d",
+          "source": "MANGADEX"
+        },
+        {
+          "id": 8598080631039565048,
+          "title": "Comedy",
+          "key": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+          "source": "MANGADEX"
+        }
+      ]
+    }
+  },
+  {
+    "manga_id": 927557742666796536,
+    "category_id": 2,
+    "sort_key": 0,
+    "created_at": 1705397931431,
+    "manga": {
+      "id": 927557742666796536,
+      "title": "Mairimashita! Iruma-kun",
+      "url": "d7037b2a-874a-4360-8a7b-07f2899152fd",
+      "public_url": "https:\/\/mangadex.org\/title\/d7037b2a-874a-4360-8a7b-07f2899152fd",
+      "rating": -1,
+      "nsfw": false,
+      "cover_url": "https:\/\/uploads.mangadex.org\/covers\/d7037b2a-874a-4360-8a7b-07f2899152fd\/02ea6111-ed45-4b0a-bee9-e1ede4f12038.jpg.256.jpg",
+      "large_cover_url": "https:\/\/uploads.mangadex.org\/covers\/d7037b2a-874a-4360-8a7b-07f2899152fd\/02ea6111-ed45-4b0a-bee9-e1ede4f12038.jpg",
+      "state": "ONGOING",
+      "author": "Nishi Osamu ",
+      "source": "MANGADEX",
+      "tags": [
+        {
+          "id": -8533707364724547921,
+          "title": "Crossdressing",
+          "key": "9ab53f92-3eed-4e9b-903a-917c86035ee3",
+          "source": "MANGADEX"
+        },
+        {
+          "id": -6652525621421748139,
+          "title": "Monsters",
+          "key": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+          "source": "MANGADEX"
+        },
+        {
+          "id": -421896851834025825,
+          "title": "Magic",
+          "key": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+          "source": "MANGADEX"
+        },
+        {
+          "id": 633872134228518919,
+          "title": "Action",
+          "key": "391b0423-d847-456f-aff0-8b0cfc03066b",
+          "source": "MANGADEX"
+        },
+        {
+          "id": 858720844301978413,
+          "title": "Romance",
+          "key": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+          "source": "MANGADEX"
+        },
+        {
+          "id": 1578183182342788534,
+          "title": "Demons",
+          "key": "39730448-9a5f-48a2-85b0-a70db87b1233",
+          "source": "MANGADEX"
+        },
+        {
+          "id": 2775500103261125971,
+          "title": "Fantasy",
+          "key": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+          "source": "MANGADEX"
+        },
+        {
+          "id": 4686178622916637559,
+          "title": "School Life",
+          "key": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+          "source": "MANGADEX"
+        },
+        {
+          "id": 7136683966462009152,
+          "title": "Isekai",
+          "key": "ace04997-f6bd-436e-b261-779182193d3d",
+          "source": "MANGADEX"
+        },
+        {
+          "id": 8598080631039565048,
+          "title": "Comedy",
+          "key": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+          "source": "MANGADEX"
+        }
+      ]
+    }
+  },
+  {
+    "manga_id": 3902938726270711775,
+    "category_id": 2,
+    "sort_key": 0,
+    "created_at": 1705397874347,
+    "manga": {
+      "id": 3902938726270711775,
+      "title": "Arifureta Shokugyou de Sekai Saikyou",
+      "url": "248525ed-ad1c-4ddc-a834-5d6ce66a3ad2",
+      "public_url": "https:\/\/mangadex.org\/title\/248525ed-ad1c-4ddc-a834-5d6ce66a3ad2",
+      "rating": -1,
+      "nsfw": false,
+      "cover_url": "https:\/\/uploads.mangadex.org\/covers\/248525ed-ad1c-4ddc-a834-5d6ce66a3ad2\/1ae60b7b-c7d6-45b2-a33e-d4dcf8864e96.jpg.256.jpg",
+      "large_cover_url": "https:\/\/uploads.mangadex.org\/covers\/248525ed-ad1c-4ddc-a834-5d6ce66a3ad2\/1ae60b7b-c7d6-45b2-a33e-d4dcf8864e96.jpg",
+      "state": "ONGOING",
+      "author": "Shirakome Ryo",
+      "source": "MANGADEX",
+      "tags": [
+        {
+          "id": -8528384497486558416,
+          "title": "Drama",
+          "key": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+          "source": "MANGADEX"
+        },
+        {
+          "id": -2981221351854641815,
+          "title": "Adaptation",
+          "key": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+          "source": "MANGADEX"
+        },
+        {
+          "id": -1834038649543473543,
+          "title": "Adventure",
+          "key": "87cc87cd-a395-47af-b27a-93258283bbc6",
+          "source": "MANGADEX"
+        },
+        {
+          "id": -421896851834025825,
+          "title": "Magic",
+          "key": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+          "source": "MANGADEX"
+        },
+        {
+          "id": 633872134228518919,
+          "title": "Action",
+          "key": "391b0423-d847-456f-aff0-8b0cfc03066b",
+          "source": "MANGADEX"
+        },
+        {
+          "id": 858720844301978413,
+          "title": "Romance",
+          "key": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+          "source": "MANGADEX"
+        },
+        {
+          "id": 2775500103261125971,
+          "title": "Fantasy",
+          "key": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+          "source": "MANGADEX"
+        },
+        {
+          "id": 4230247440296129424,
+          "title": "Harem",
+          "key": "aafb99c1-7f60-43fa-b75f-fc9502ce29c7",
+          "source": "MANGADEX"
+        },
+        {
+          "id": 7136683966462009152,
+          "title": "Isekai",
+          "key": "ace04997-f6bd-436e-b261-779182193d3d",
+          "source": "MANGADEX"
+        },
+        {
+          "id": 8598080631039565048,
+          "title": "Comedy",
+          "key": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+          "source": "MANGADEX"
+        }
+      ]
+    }
+  },
+  {
+    "manga_id": -7635407202691833900,
+    "category_id": 2,
+    "sort_key": 0,
+    "created_at": 1705397848814,
+    "manga": {
+      "id": -7635407202691833900,
+      "title": "Fuufu Ijou, Koibito Miman.",
+      "url": "b4c93297-b32f-4f90-b619-55456a38b0aa",
+      "public_url": "https:\/\/mangadex.org\/title\/b4c93297-b32f-4f90-b619-55456a38b0aa",
+      "rating": -1,
+      "nsfw": false,
+      "cover_url": "https:\/\/uploads.mangadex.org\/covers\/b4c93297-b32f-4f90-b619-55456a38b0aa\/1639cc36-ef55-4fd3-8993-3bae5a4d56e0.png.256.jpg",
+      "large_cover_url": "https:\/\/uploads.mangadex.org\/covers\/b4c93297-b32f-4f90-b619-55456a38b0aa\/1639cc36-ef55-4fd3-8993-3bae5a4d56e0.png",
+      "state": "ONGOING",
+      "author": "Kanamaru Yuki",
+      "source": "MANGADEX",
+      "tags": [
+        {
+          "id": -8528384497486558416,
+          "title": "Drama",
+          "key": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+          "source": "MANGADEX"
+        },
+        {
+          "id": -541819195229643906,
+          "title": "Slice of Life",
+          "key": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+          "source": "MANGADEX"
+        },
+        {
+          "id": 858720844301978413,
+          "title": "Romance",
+          "key": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+          "source": "MANGADEX"
+        },
+        {
+          "id": 4686178622916637559,
+          "title": "School Life",
+          "key": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+          "source": "MANGADEX"
+        },
+        {
+          "id": 6558546381061633123,
+          "title": "Gyaru",
+          "key": "fad12b5e-68ba-460e-b933-9ae8318f5b65",
+          "source": "MANGADEX"
+        },
+        {
+          "id": 8598080631039565048,
+          "title": "Comedy",
+          "key": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+          "source": "MANGADEX"
+        }
+      ]
+    }
+  }
+]

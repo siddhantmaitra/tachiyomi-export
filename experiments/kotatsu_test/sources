@@ -1,0 +1,4212 @@
+[
+  {
+    "source": "BATOTO",
+    "enabled": false,
+    "sort_key": 1
+  },
+  {
+    "source": "COMICK_FUN",
+    "enabled": false,
+    "sort_key": 2
+  },
+  {
+    "source": "EXHENTAI",
+    "enabled": false,
+    "sort_key": 3
+  },
+  {
+    "source": "HITOMILA",
+    "enabled": false,
+    "sort_key": 4
+  },
+  {
+    "source": "IMHENTAI",
+    "enabled": false,
+    "sort_key": 5
+  },
+  {
+    "source": "LINEWEBTOONS_EN",
+    "enabled": false,
+    "sort_key": 6
+  },
+  {
+    "source": "LINEWEBTOONS_ZH",
+    "enabled": false,
+    "sort_key": 7
+  },
+  {
+    "source": "LINEWEBTOONS_TH",
+    "enabled": false,
+    "sort_key": 8
+  },
+  {
+    "source": "LINEWEBTOONS_ID",
+    "enabled": false,
+    "sort_key": 9
+  },
+  {
+    "source": "LINEWEBTOONS_ES",
+    "enabled": false,
+    "sort_key": 10
+  },
+  {
+    "source": "LINEWEBTOONS_FR",
+    "enabled": false,
+    "sort_key": 11
+  },
+  {
+    "source": "LINEWEBTOONS_DE",
+    "enabled": false,
+    "sort_key": 12
+  },
+  {
+    "source": "MANGADEX",
+    "enabled": true,
+    "sort_key": 13
+  },
+  {
+    "source": "MANGAPARK",
+    "enabled": false,
+    "sort_key": 14
+  },
+  {
+    "source": "MANGAPLUSPARSER_EN",
+    "enabled": false,
+    "sort_key": 15
+  },
+  {
+    "source": "MANGAPLUSPARSER_ES",
+    "enabled": false,
+    "sort_key": 16
+  },
+  {
+    "source": "MANGAPLUSPARSER_FR",
+    "enabled": false,
+    "sort_key": 17
+  },
+  {
+    "source": "MANGAPLUSPARSER_ID",
+    "enabled": false,
+    "sort_key": 18
+  },
+  {
+    "source": "MANGAPLUSPARSER_PTBR",
+    "enabled": false,
+    "sort_key": 19
+  },
+  {
+    "source": "MANGAPLUSPARSER_RU",
+    "enabled": false,
+    "sort_key": 20
+  },
+  {
+    "source": "MANGAPLUSPARSER_TH",
+    "enabled": false,
+    "sort_key": 21
+  },
+  {
+    "source": "MANGAPLUSPARSER_VI",
+    "enabled": false,
+    "sort_key": 22
+  },
+  {
+    "source": "NINEMANGA_EN",
+    "enabled": false,
+    "sort_key": 23
+  },
+  {
+    "source": "NINEMANGA_ES",
+    "enabled": false,
+    "sort_key": 24
+  },
+  {
+    "source": "NINEMANGA_RU",
+    "enabled": false,
+    "sort_key": 25
+  },
+  {
+    "source": "NINEMANGA_DE",
+    "enabled": false,
+    "sort_key": 26
+  },
+  {
+    "source": "NINEMANGA_BR",
+    "enabled": false,
+    "sort_key": 27
+  },
+  {
+    "source": "NINEMANGA_IT",
+    "enabled": false,
+    "sort_key": 28
+  },
+  {
+    "source": "NINEMANGA_FR",
+    "enabled": false,
+    "sort_key": 29
+  },
+  {
+    "source": "NINENINENINEHENTAI",
+    "enabled": false,
+    "sort_key": 30
+  },
+  {
+    "source": "PAPSCAN",
+    "enabled": false,
+    "sort_key": 31
+  },
+  {
+    "source": "KOMIKZOID",
+    "enabled": false,
+    "sort_key": 32
+  },
+  {
+    "source": "NEUMANGA",
+    "enabled": false,
+    "sort_key": 33
+  },
+  {
+    "source": "SEKTEKOMIK",
+    "enabled": false,
+    "sort_key": 34
+  },
+  {
+    "source": "FLIXSCANS",
+    "enabled": false,
+    "sort_key": 35
+  },
+  {
+    "source": "MANGASTORM",
+    "enabled": false,
+    "sort_key": 36
+  },
+  {
+    "source": "TEAMXNOVEL",
+    "enabled": false,
+    "sort_key": 37
+  },
+  {
+    "source": "ANIBEL",
+    "enabled": false,
+    "sort_key": 38
+  },
+  {
+    "source": "BEETOON",
+    "enabled": false,
+    "sort_key": 39
+  },
+  {
+    "source": "CLONEMANGA",
+    "enabled": false,
+    "sort_key": 40
+  },
+  {
+    "source": "COMICEXTRA",
+    "enabled": false,
+    "sort_key": 41
+  },
+  {
+    "source": "DYNASTYSCANS",
+    "enabled": false,
+    "sort_key": 42
+  },
+  {
+    "source": "FLIXSCANSORG",
+    "enabled": false,
+    "sort_key": 43
+  },
+  {
+    "source": "MANGAGEKO",
+    "enabled": false,
+    "sort_key": 44
+  },
+  {
+    "source": "MANGATOWN",
+    "enabled": false,
+    "sort_key": 45
+  },
+  {
+    "source": "MANGAOWL",
+    "enabled": false,
+    "sort_key": 46
+  },
+  {
+    "source": "MANHWA18",
+    "enabled": false,
+    "sort_key": 47
+  },
+  {
+    "source": "MANHWASMEN",
+    "enabled": false,
+    "sort_key": 48
+  },
+  {
+    "source": "PO2SCANS",
+    "enabled": false,
+    "sort_key": 49
+  },
+  {
+    "source": "PURURIN",
+    "enabled": false,
+    "sort_key": 50
+  },
+  {
+    "source": "REAPERCOMICS",
+    "enabled": false,
+    "sort_key": 51
+  },
+  {
+    "source": "TEMPLESCANESP",
+    "enabled": false,
+    "sort_key": 52
+  },
+  {
+    "source": "TUMANGAONLINE",
+    "enabled": false,
+    "sort_key": 53
+  },
+  {
+    "source": "MANHWA18COM",
+    "enabled": false,
+    "sort_key": 54
+  },
+  {
+    "source": "OLIMPOSCANS",
+    "enabled": false,
+    "sort_key": 55
+  },
+  {
+    "source": "KLZ9",
+    "enabled": false,
+    "sort_key": 56
+  },
+  {
+    "source": "WELOVEMANGA",
+    "enabled": false,
+    "sort_key": 57
+  },
+  {
+    "source": "WELOMA",
+    "enabled": false,
+    "sort_key": 58
+  },
+  {
+    "source": "ASSORTEDSCANS",
+    "enabled": false,
+    "sort_key": 59
+  },
+  {
+    "source": "DEATHTOLLSCANS",
+    "enabled": false,
+    "sort_key": 60
+  },
+  {
+    "source": "MANGATELLERS",
+    "enabled": false,
+    "sort_key": 61
+  },
+  {
+    "source": "READER_EVILFLOWERS",
+    "enabled": false,
+    "sort_key": 62
+  },
+  {
+    "source": "SEINAGI",
+    "enabled": false,
+    "sort_key": 63
+  },
+  {
+    "source": "MENUDO_FANSUB",
+    "enabled": false,
+    "sort_key": 64
+  },
+  {
+    "source": "PZYKOSIS666HFANSUB",
+    "enabled": false,
+    "sort_key": 65
+  },
+  {
+    "source": "SEINAGIADULTO",
+    "enabled": false,
+    "sort_key": 66
+  },
+  {
+    "source": "HNISCANTRAD",
+    "enabled": false,
+    "sort_key": 67
+  },
+  {
+    "source": "POWERMANGA",
+    "enabled": false,
+    "sort_key": 68
+  },
+  {
+    "source": "RAMAREADER",
+    "enabled": false,
+    "sort_key": 69
+  },
+  {
+    "source": "READNIFTEAM",
+    "enabled": false,
+    "sort_key": 70
+  },
+  {
+    "source": "BENTOMANGA",
+    "enabled": false,
+    "sort_key": 71
+  },
+  {
+    "source": "FMTEAM",
+    "enabled": false,
+    "sort_key": 72
+  },
+  {
+    "source": "FURYOSOCIETY",
+    "enabled": false,
+    "sort_key": 73
+  },
+  {
+    "source": "LEGACY_SCANS",
+    "enabled": false,
+    "sort_key": 74
+  },
+  {
+    "source": "LIRESCAN",
+    "enabled": false,
+    "sort_key": 75
+  },
+  {
+    "source": "LUGNICASCANS",
+    "enabled": false,
+    "sort_key": 76
+  },
+  {
+    "source": "SCANS_MANGAS_ME",
+    "enabled": false,
+    "sort_key": 77
+  },
+  {
+    "source": "SCANTRADUNION",
+    "enabled": false,
+    "sort_key": 78
+  },
+  {
+    "source": "ASMHENTAI",
+    "enabled": false,
+    "sort_key": 79
+  },
+  {
+    "source": "DOUJINDESUUK",
+    "enabled": false,
+    "sort_key": 80
+  },
+  {
+    "source": "HENTAI3",
+    "enabled": false,
+    "sort_key": 81
+  },
+  {
+    "source": "HENTAIENVY",
+    "enabled": false,
+    "sort_key": 82
+  },
+  {
+    "source": "HENTAIERA",
+    "enabled": false,
+    "sort_key": 83
+  },
+  {
+    "source": "HENTAIFORCE",
+    "enabled": false,
+    "sort_key": 84
+  },
+  {
+    "source": "HENTAIFOX",
+    "enabled": false,
+    "sort_key": 85
+  },
+  {
+    "source": "HENTAIROX",
+    "enabled": false,
+    "sort_key": 86
+  },
+  {
+    "source": "NHENTAI",
+    "enabled": false,
+    "sort_key": 87
+  },
+  {
+    "source": "HENTAISEASON",
+    "enabled": false,
+    "sort_key": 88
+  },
+  {
+    "source": "HENTAITOKYO",
+    "enabled": false,
+    "sort_key": 89
+  },
+  {
+    "source": "MUNDOHENTAIOFICIAL",
+    "enabled": false,
+    "sort_key": 90
+  },
+  {
+    "source": "UNIVERSOHENTAI",
+    "enabled": false,
+    "sort_key": 91
+  },
+  {
+    "source": "MAHOUSHOUJOBU",
+    "enabled": false,
+    "sort_key": 92
+  },
+  {
+    "source": "DANKE",
+    "enabled": false,
+    "sort_key": 93
+  },
+  {
+    "source": "GUYACUBARI",
+    "enabled": false,
+    "sort_key": 94
+  },
+  {
+    "source": "HACHIRUMI",
+    "enabled": false,
+    "sort_key": 95
+  },
+  {
+    "source": "OMEGASCANS",
+    "enabled": false,
+    "sort_key": 96
+  },
+  {
+    "source": "TEMPLESCAN",
+    "enabled": false,
+    "sort_key": 97
+  },
+  {
+    "source": "YUGEN_MANGAS_ES",
+    "enabled": false,
+    "sort_key": 98
+  },
+  {
+    "source": "PERF_SCAN",
+    "enabled": false,
+    "sort_key": 99
+  },
+  {
+    "source": "BRAKEOUT",
+    "enabled": false,
+    "sort_key": 100
+  },
+  {
+    "source": "LEGIONSCANS",
+    "enabled": false,
+    "sort_key": 101
+  },
+  {
+    "source": "MANGAESP",
+    "enabled": false,
+    "sort_key": 102
+  },
+  {
+    "source": "DOUJINDESU",
+    "enabled": false,
+    "sort_key": 103
+  },
+  {
+    "source": "NICOVIDEO_SEIGA",
+    "enabled": false,
+    "sort_key": 104
+  },
+  {
+    "source": "LIKEMANGA",
+    "enabled": false,
+    "sort_key": 105
+  },
+  {
+    "source": "ZINMANGA_IO",
+    "enabled": false,
+    "sort_key": 106
+  },
+  {
+    "source": "ERO18X",
+    "enabled": false,
+    "sort_key": 107
+  },
+  {
+    "source": "MANGA18FX",
+    "enabled": false,
+    "sort_key": 108
+  },
+  {
+    "source": "MANGACRAZY",
+    "enabled": false,
+    "sort_key": 109
+  },
+  {
+    "source": "MANGATOP",
+    "enabled": false,
+    "sort_key": 110
+  },
+  {
+    "source": "MANHWA18CC",
+    "enabled": false,
+    "sort_key": 111
+  },
+  {
+    "source": "MANHWARAW",
+    "enabled": false,
+    "sort_key": 112
+  },
+  {
+    "source": "MANYTOON_CLUB",
+    "enabled": false,
+    "sort_key": 113
+  },
+  {
+    "source": "ARABTOONS",
+    "enabled": false,
+    "sort_key": 114
+  },
+  {
+    "source": "ASQORG",
+    "enabled": false,
+    "sort_key": 115
+  },
+  {
+    "source": "AZORANOV",
+    "enabled": false,
+    "sort_key": 116
+  },
+  {
+    "source": "COMICARAB",
+    "enabled": false,
+    "sort_key": 117
+  },
+  {
+    "source": "GATEMANGA",
+    "enabled": false,
+    "sort_key": 118
+  },
+  {
+    "source": "MANGALEK",
+    "enabled": false,
+    "sort_key": 119
+  },
+  {
+    "source": "MANGA_LEK",
+    "enabled": false,
+    "sort_key": 120
+  },
+  {
+    "source": "MANGALEK_NET",
+    "enabled": false,
+    "sort_key": 121
+  },
+  {
+    "source": "MANGALIKE",
+    "enabled": false,
+    "sort_key": 122
+  },
+  {
+    "source": "MANGALIONZ",
+    "enabled": false,
+    "sort_key": 123
+  },
+  {
+    "source": "MANGAROSE",
+    "enabled": false,
+    "sort_key": 124
+  },
+  {
+    "source": "MANGASTARZ",
+    "enabled": false,
+    "sort_key": 125
+  },
+  {
+    "source": "MANGATIME",
+    "enabled": false,
+    "sort_key": 126
+  },
+  {
+    "source": "MANGALINKNET",
+    "enabled": false,
+    "sort_key": 127
+  },
+  {
+    "source": "MANGALINK_AR",
+    "enabled": false,
+    "sort_key": 128
+  },
+  {
+    "source": "MANGARBIC",
+    "enabled": false,
+    "sort_key": 129
+  },
+  {
+    "source": "MANGASPARK",
+    "enabled": false,
+    "sort_key": 130
+  },
+  {
+    "source": "MANHATIC",
+    "enabled": false,
+    "sort_key": 131
+  },
+  {
+    "source": "NIJITRANSLATIONS",
+    "enabled": false,
+    "sort_key": 132
+  },
+  {
+    "source": "NOVELSTOWN",
+    "enabled": false,
+    "sort_key": 133
+  },
+  {
+    "source": "OLAOE",
+    "enabled": false,
+    "sort_key": 134
+  },
+  {
+    "source": "PEWPIECE",
+    "enabled": false,
+    "sort_key": 135
+  },
+  {
+    "source": "SHADOWXMANGA",
+    "enabled": false,
+    "sort_key": 136
+  },
+  {
+    "source": "WEBTOONEMPIRE",
+    "enabled": false,
+    "sort_key": 137
+  },
+  {
+    "source": "MANGALESEN",
+    "enabled": false,
+    "sort_key": 138
+  },
+  {
+    "source": "ADULT_WEBTOON",
+    "enabled": false,
+    "sort_key": 139
+  },
+  {
+    "source": "ALLPORN_COMIC",
+    "enabled": false,
+    "sort_key": 140
+  },
+  {
+    "source": "ANSHSCANS",
+    "enabled": false,
+    "sort_key": 141
+  },
+  {
+    "source": "AQUAMANGA",
+    "enabled": false,
+    "sort_key": 142
+  },
+  {
+    "source": "ARCANESCANS",
+    "enabled": false,
+    "sort_key": 143
+  },
+  {
+    "source": "ASURASCANS_US",
+    "enabled": false,
+    "sort_key": 144
+  },
+  {
+    "source": "BABELWUXIA",
+    "enabled": false,
+    "sort_key": 145
+  },
+  {
+    "source": "BANANA_MANGA",
+    "enabled": false,
+    "sort_key": 146
+  },
+  {
+    "source": "BESTMANHUACOM",
+    "enabled": false,
+    "sort_key": 147
+  },
+  {
+    "source": "BIBIMANGA",
+    "enabled": false,
+    "sort_key": 148
+  },
+  {
+    "source": "BOYS_LOVE",
+    "enabled": false,
+    "sort_key": 149
+  },
+  {
+    "source": "COFFEE_MANGA",
+    "enabled": false,
+    "sort_key": 150
+  },
+  {
+    "source": "COLORED_MANGA",
+    "enabled": false,
+    "sort_key": 151
+  },
+  {
+    "source": "COMICSVALLEY",
+    "enabled": false,
+    "sort_key": 152
+  },
+  {
+    "source": "COMIZ",
+    "enabled": false,
+    "sort_key": 153
+  },
+  {
+    "source": "CREEPYSCANS",
+    "enabled": false,
+    "sort_key": 154
+  },
+  {
+    "source": "DARKSCAN",
+    "enabled": false,
+    "sort_key": 155
+  },
+  {
+    "source": "DARK_SCANS",
+    "enabled": false,
+    "sort_key": 156
+  },
+  {
+    "source": "DECADENCESCANS",
+    "enabled": false,
+    "sort_key": 157
+  },
+  {
+    "source": "DRAGONTEA",
+    "enabled": false,
+    "sort_key": 158
+  },
+  {
+    "source": "DRAKESCANS",
+    "enabled": false,
+    "sort_key": 159
+  },
+  {
+    "source": "DUCKMANGA",
+    "enabled": false,
+    "sort_key": 160
+  },
+  {
+    "source": "ELITEMANGA",
+    "enabled": false,
+    "sort_key": 161
+  },
+  {
+    "source": "FACTMANGA",
+    "enabled": false,
+    "sort_key": 162
+  },
+  {
+    "source": "FIRESCANS",
+    "enabled": false,
+    "sort_key": 163
+  },
+  {
+    "source": "FREECOMICONLINE",
+    "enabled": false,
+    "sort_key": 164
+  },
+  {
+    "source": "FREEMANGA",
+    "enabled": false,
+    "sort_key": 165
+  },
+  {
+    "source": "FREEMANGATOP",
+    "enabled": false,
+    "sort_key": 166
+  },
+  {
+    "source": "FREEWEBTOONCOINS",
+    "enabled": false,
+    "sort_key": 167
+  },
+  {
+    "source": "GDSCANS",
+    "enabled": false,
+    "sort_key": 168
+  },
+  {
+    "source": "GOODGIRLS",
+    "enabled": false,
+    "sort_key": 169
+  },
+  {
+    "source": "GOURMETSCANS",
+    "enabled": false,
+    "sort_key": 170
+  },
+  {
+    "source": "GRABBER",
+    "enabled": false,
+    "sort_key": 171
+  },
+  {
+    "source": "HARIMANGA",
+    "enabled": false,
+    "sort_key": 172
+  },
+  {
+    "source": "HENTAI3Z",
+    "enabled": false,
+    "sort_key": 173
+  },
+  {
+    "source": "HENTAI_4FREE",
+    "enabled": false,
+    "sort_key": 174
+  },
+  {
+    "source": "HENTAIMANGA",
+    "enabled": false,
+    "sort_key": 175
+  },
+  {
+    "source": "HENTAIWEBTOON",
+    "enabled": false,
+    "sort_key": 176
+  },
+  {
+    "source": "HENTAIXCOMIC",
+    "enabled": false,
+    "sort_key": 177
+  },
+  {
+    "source": "HENTAIXYURI",
+    "enabled": false,
+    "sort_key": 178
+  },
+  {
+    "source": "HENTAIXDICKGIRL",
+    "enabled": false,
+    "sort_key": 179
+  },
+  {
+    "source": "HIPERDEX",
+    "enabled": false,
+    "sort_key": 180
+  },
+  {
+    "source": "HUNTERSSCANEN",
+    "enabled": false,
+    "sort_key": 181
+  },
+  {
+    "source": "IMMORTALUPDATES",
+    "enabled": false,
+    "sort_key": 182
+  },
+  {
+    "source": "INSTAMANHWA",
+    "enabled": false,
+    "sort_key": 183
+  },
+  {
+    "source": "ISEKAISCAN",
+    "enabled": false,
+    "sort_key": 184
+  },
+  {
+    "source": "ISEKAISCAN_EU",
+    "enabled": false,
+    "sort_key": 185
+  },
+  {
+    "source": "ITSYOURIGHTMANHUA",
+    "enabled": false,
+    "sort_key": 186
+  },
+  {
+    "source": "JIMANGA",
+    "enabled": false,
+    "sort_key": 187
+  },
+  {
+    "source": "KISSMANGA",
+    "enabled": false,
+    "sort_key": 188
+  },
+  {
+    "source": "KSGROUPSCANS",
+    "enabled": false,
+    "sort_key": 189
+  },
+  {
+    "source": "KUMASCANS",
+    "enabled": false,
+    "sort_key": 190
+  },
+  {
+    "source": "KUNMANGA",
+    "enabled": false,
+    "sort_key": 191
+  },
+  {
+    "source": "LEVIATANSCANS",
+    "enabled": false,
+    "sort_key": 192
+  },
+  {
+    "source": "LHTRANSLATION",
+    "enabled": false,
+    "sort_key": 193
+  },
+  {
+    "source": "LILYMANGA",
+    "enabled": false,
+    "sort_key": 194
+  },
+  {
+    "source": "LOLICONMOBI",
+    "enabled": false,
+    "sort_key": 195
+  },
+  {
+    "source": "LUFFYMANGA",
+    "enabled": false,
+    "sort_key": 196
+  },
+  {
+    "source": "LUXMANGA",
+    "enabled": false,
+    "sort_key": 197
+  },
+  {
+    "source": "MANGA1001",
+    "enabled": false,
+    "sort_key": 198
+  },
+  {
+    "source": "MANGA18XYZ",
+    "enabled": false,
+    "sort_key": 199
+  },
+  {
+    "source": "MANGA18H",
+    "enabled": false,
+    "sort_key": 200
+  },
+  {
+    "source": "MANGA18X",
+    "enabled": false,
+    "sort_key": 201
+  },
+  {
+    "source": "MANGA1K",
+    "enabled": false,
+    "sort_key": 202
+  },
+  {
+    "source": "MANGA1ST",
+    "enabled": false,
+    "sort_key": 203
+  },
+  {
+    "source": "MANGA68",
+    "enabled": false,
+    "sort_key": 204
+  },
+  {
+    "source": "MANGAACTION",
+    "enabled": false,
+    "sort_key": 205
+  },
+  {
+    "source": "MANGABEE",
+    "enabled": false,
+    "sort_key": 206
+  },
+  {
+    "source": "MANGABOB",
+    "enabled": false,
+    "sort_key": 207
+  },
+  {
+    "source": "MANGACULTIVATOR",
+    "enabled": false,
+    "sort_key": 208
+  },
+  {
+    "source": "MANGADASS",
+    "enabled": false,
+    "sort_key": 209
+  },
+  {
+    "source": "MANGA_DISTRICT",
+    "enabled": false,
+    "sort_key": 210
+  },
+  {
+    "source": "MANGADNA",
+    "enabled": false,
+    "sort_key": 211
+  },
+  {
+    "source": "MANGAECLIPSE",
+    "enabled": false,
+    "sort_key": 212
+  },
+  {
+    "source": "MANGAEFFECT",
+    "enabled": false,
+    "sort_key": 213
+  },
+  {
+    "source": "MANGAFASTNET",
+    "enabled": false,
+    "sort_key": 214
+  },
+  {
+    "source": "MANGAFORFREE",
+    "enabled": false,
+    "sort_key": 215
+  },
+  {
+    "source": "MANGAFOXFULL",
+    "enabled": false,
+    "sort_key": 216
+  },
+  {
+    "source": "MANGAFREAK",
+    "enabled": false,
+    "sort_key": 217
+  },
+  {
+    "source": "MANGAGALAXY",
+    "enabled": false,
+    "sort_key": 218
+  },
+  {
+    "source": "MANGAHENTAI",
+    "enabled": false,
+    "sort_key": 219
+  },
+  {
+    "source": "MANGAKISS",
+    "enabled": false,
+    "sort_key": 220
+  },
+  {
+    "source": "MANGA_KOMI",
+    "enabled": false,
+    "sort_key": 221
+  },
+  {
+    "source": "MANGALEVELING",
+    "enabled": false,
+    "sort_key": 222
+  },
+  {
+    "source": "MANGA_MANHUA",
+    "enabled": false,
+    "sort_key": 223
+  },
+  {
+    "source": "MANGAMANIACS",
+    "enabled": false,
+    "sort_key": 224
+  },
+  {
+    "source": "MANGAONLINETEAM",
+    "enabled": false,
+    "sort_key": 225
+  },
+  {
+    "source": "MANGAOWLBLOG",
+    "enabled": false,
+    "sort_key": 226
+  },
+  {
+    "source": "MANGAOWL_IO",
+    "enabled": false,
+    "sort_key": 227
+  },
+  {
+    "source": "MANGAOWL_US",
+    "enabled": false,
+    "sort_key": 228
+  },
+  {
+    "source": "MANGAPURE",
+    "enabled": false,
+    "sort_key": 229
+  },
+  {
+    "source": "MANGA_QUEEN",
+    "enabled": false,
+    "sort_key": 230
+  },
+  {
+    "source": "MANGAREAD",
+    "enabled": false,
+    "sort_key": 231
+  },
+  {
+    "source": "MANGAREADCO",
+    "enabled": false,
+    "sort_key": 232
+  },
+  {
+    "source": "MANGAROCK",
+    "enabled": false,
+    "sort_key": 233
+  },
+  {
+    "source": "MANGAROCKTEAM",
+    "enabled": false,
+    "sort_key": 234
+  },
+  {
+    "source": "MANGAROLLS",
+    "enabled": false,
+    "sort_key": 235
+  },
+  {
+    "source": "MANGAROSIE",
+    "enabled": false,
+    "sort_key": 236
+  },
+  {
+    "source": "MANGARUBY",
+    "enabled": false,
+    "sort_key": 237
+  },
+  {
+    "source": "MANGARYU",
+    "enabled": false,
+    "sort_key": 238
+  },
+  {
+    "source": "MANGASUSHI",
+    "enabled": false,
+    "sort_key": 239
+  },
+  {
+    "source": "MANGATX_GG",
+    "enabled": false,
+    "sort_key": 240
+  },
+  {
+    "source": "MANGATXUNOFFICIAL",
+    "enabled": false,
+    "sort_key": 241
+  },
+  {
+    "source": "MANGATYRANT",
+    "enabled": false,
+    "sort_key": 242
+  },
+  {
+    "source": "MANGAWEEBS",
+    "enabled": false,
+    "sort_key": 243
+  },
+  {
+    "source": "MANGACLASH",
+    "enabled": false,
+    "sort_key": 244
+  },
+  {
+    "source": "MANGAGG",
+    "enabled": false,
+    "sort_key": 245
+  },
+  {
+    "source": "MANGAOWL_ONE",
+    "enabled": false,
+    "sort_key": 246
+  },
+  {
+    "source": "MANGASY",
+    "enabled": false,
+    "sort_key": 247
+  },
+  {
+    "source": "MANGAUS",
+    "enabled": false,
+    "sort_key": 248
+  },
+  {
+    "source": "MANHUAMANHWA",
+    "enabled": false,
+    "sort_key": 249
+  },
+  {
+    "source": "MANHUAZONE",
+    "enabled": false,
+    "sort_key": 250
+  },
+  {
+    "source": "MANHUAZONGHE",
+    "enabled": false,
+    "sort_key": 251
+  },
+  {
+    "source": "MANHUAES",
+    "enabled": false,
+    "sort_key": 252
+  },
+  {
+    "source": "MANHUAFAST",
+    "enabled": false,
+    "sort_key": 253
+  },
+  {
+    "source": "MANHUAGA",
+    "enabled": false,
+    "sort_key": 254
+  },
+  {
+    "source": "MANHUAHOT",
+    "enabled": false,
+    "sort_key": 255
+  },
+  {
+    "source": "MANHUAPLUS",
+    "enabled": false,
+    "sort_key": 256
+  },
+  {
+    "source": "MANHUASY",
+    "enabled": false,
+    "sort_key": 257
+  },
+  {
+    "source": "MANHUAUS",
+    "enabled": false,
+    "sort_key": 258
+  },
+  {
+    "source": "MANHUAUSS",
+    "enabled": false,
+    "sort_key": 259
+  },
+  {
+    "source": "MANHWA18APP",
+    "enabled": false,
+    "sort_key": 260
+  },
+  {
+    "source": "MANHWA18ORG",
+    "enabled": false,
+    "sort_key": 261
+  },
+  {
+    "source": "MANHWA68",
+    "enabled": false,
+    "sort_key": 262
+  },
+  {
+    "source": "MANHWACLAN",
+    "enabled": false,
+    "sort_key": 263
+  },
+  {
+    "source": "MANHWAFULL",
+    "enabled": false,
+    "sort_key": 264
+  },
+  {
+    "source": "MANHWAHENTAI",
+    "enabled": false,
+    "sort_key": 265
+  },
+  {
+    "source": "MANHWAHENTAITO",
+    "enabled": false,
+    "sort_key": 266
+  },
+  {
+    "source": "MANHWAMANHUA",
+    "enabled": false,
+    "sort_key": 267
+  },
+  {
+    "source": "MANHWANEW",
+    "enabled": false,
+    "sort_key": 268
+  },
+  {
+    "source": "MANHWARAW_COM",
+    "enabled": false,
+    "sort_key": 269
+  },
+  {
+    "source": "MANHWATOP",
+    "enabled": false,
+    "sort_key": 270
+  },
+  {
+    "source": "MANHWADEN",
+    "enabled": false,
+    "sort_key": 271
+  },
+  {
+    "source": "MANHWASCO",
+    "enabled": false,
+    "sort_key": 272
+  },
+  {
+    "source": "MANHWAZ",
+    "enabled": false,
+    "sort_key": 273
+  },
+  {
+    "source": "MANYCOMIC",
+    "enabled": false,
+    "sort_key": 274
+  },
+  {
+    "source": "MANYTOON",
+    "enabled": false,
+    "sort_key": 275
+  },
+  {
+    "source": "MANYTOONME",
+    "enabled": false,
+    "sort_key": 276
+  },
+  {
+    "source": "MILFTOON",
+    "enabled": false,
+    "sort_key": 277
+  },
+  {
+    "source": "MMSCANS",
+    "enabled": false,
+    "sort_key": 278
+  },
+  {
+    "source": "MORTALSGROOVE",
+    "enabled": false,
+    "sort_key": 279
+  },
+  {
+    "source": "MURIMSCAN",
+    "enabled": false,
+    "sort_key": 280
+  },
+  {
+    "source": "NEATMANGA",
+    "enabled": false,
+    "sort_key": 281
+  },
+  {
+    "source": "NEWMANHUA",
+    "enabled": false,
+    "sort_key": 282
+  },
+  {
+    "source": "NIGHTCOMIC",
+    "enabled": false,
+    "sort_key": 283
+  },
+  {
+    "source": "NITROMANGA",
+    "enabled": false,
+    "sort_key": 284
+  },
+  {
+    "source": "NOVELCROW",
+    "enabled": false,
+    "sort_key": 285
+  },
+  {
+    "source": "NOVELMIC",
+    "enabled": false,
+    "sort_key": 286
+  },
+  {
+    "source": "NVMANGA",
+    "enabled": false,
+    "sort_key": 287
+  },
+  {
+    "source": "ONLYMANHWA",
+    "enabled": false,
+    "sort_key": 288
+  },
+  {
+    "source": "PARAGONSCANS",
+    "enabled": false,
+    "sort_key": 289
+  },
+  {
+    "source": "PARITEHABER",
+    "enabled": false,
+    "sort_key": 290
+  },
+  {
+    "source": "PAWMANGA",
+    "enabled": false,
+    "sort_key": 291
+  },
+  {
+    "source": "PETROTECHSOCIETY",
+    "enabled": false,
+    "sort_key": 292
+  },
+  {
+    "source": "PIANMANGA",
+    "enabled": false,
+    "sort_key": 293
+  },
+  {
+    "source": "PLATINUMSCANS",
+    "enabled": false,
+    "sort_key": 294
+  },
+  {
+    "source": "PONYMANGA",
+    "enabled": false,
+    "sort_key": 295
+  },
+  {
+    "source": "PORNCOMIXONLINE",
+    "enabled": false,
+    "sort_key": 296
+  },
+  {
+    "source": "RACKUSREADS",
+    "enabled": false,
+    "sort_key": 297
+  },
+  {
+    "source": "READFREECOMICS",
+    "enabled": false,
+    "sort_key": 298
+  },
+  {
+    "source": "READMANHUA",
+    "enabled": false,
+    "sort_key": 299
+  },
+  {
+    "source": "RESETSCANS",
+    "enabled": false,
+    "sort_key": 300
+  },
+  {
+    "source": "RIO2MANGANET",
+    "enabled": false,
+    "sort_key": 301
+  },
+  {
+    "source": "S2MANGA",
+    "enabled": false,
+    "sort_key": 302
+  },
+  {
+    "source": "SCANSRAW",
+    "enabled": false,
+    "sort_key": 303
+  },
+  {
+    "source": "SECTSCANS",
+    "enabled": false,
+    "sort_key": 304
+  },
+  {
+    "source": "SETSUSCANS",
+    "enabled": false,
+    "sort_key": 305
+  },
+  {
+    "source": "SHIBAMANGA",
+    "enabled": false,
+    "sort_key": 306
+  },
+  {
+    "source": "SHOOTINGSTARSCANS",
+    "enabled": false,
+    "sort_key": 307
+  },
+  {
+    "source": "SLEEPYTRANSLATIONS",
+    "enabled": false,
+    "sort_key": 308
+  },
+  {
+    "source": "STKISSMANGABLOG",
+    "enabled": false,
+    "sort_key": 309
+  },
+  {
+    "source": "STKISSMANGA_COM",
+    "enabled": false,
+    "sort_key": 310
+  },
+  {
+    "source": "SUMMANGA",
+    "enabled": false,
+    "sort_key": 311
+  },
+  {
+    "source": "TEENMANHUA",
+    "enabled": false,
+    "sort_key": 312
+  },
+  {
+    "source": "THEBLANK",
+    "enabled": false,
+    "sort_key": 313
+  },
+  {
+    "source": "THEGUILDSCANS",
+    "enabled": false,
+    "sort_key": 314
+  },
+  {
+    "source": "TOONCHILL",
+    "enabled": false,
+    "sort_key": 315
+  },
+  {
+    "source": "TOONGOD",
+    "enabled": false,
+    "sort_key": 316
+  },
+  {
+    "source": "TOONILY",
+    "enabled": false,
+    "sort_key": 317
+  },
+  {
+    "source": "TOONIZY",
+    "enabled": false,
+    "sort_key": 318
+  },
+  {
+    "source": "TOPMANHUA",
+    "enabled": false,
+    "sort_key": 319
+  },
+  {
+    "source": "TOPREADMANHWA",
+    "enabled": false,
+    "sort_key": 320
+  },
+  {
+    "source": "TREE_MANGA",
+    "enabled": false,
+    "sort_key": 321
+  },
+  {
+    "source": "TRITINIA",
+    "enabled": false,
+    "sort_key": 322
+  },
+  {
+    "source": "WEBDEXSCANS",
+    "enabled": false,
+    "sort_key": 323
+  },
+  {
+    "source": "WEBTOON",
+    "enabled": false,
+    "sort_key": 324
+  },
+  {
+    "source": "WEBTOONSCAN",
+    "enabled": false,
+    "sort_key": 325
+  },
+  {
+    "source": "WEBTOONXYZ",
+    "enabled": false,
+    "sort_key": 326
+  },
+  {
+    "source": "WOOPREAD",
+    "enabled": false,
+    "sort_key": 327
+  },
+  {
+    "source": "YAOIMOBI",
+    "enabled": false,
+    "sort_key": 328
+  },
+  {
+    "source": "YAOISCAN",
+    "enabled": false,
+    "sort_key": 329
+  },
+  {
+    "source": "ZANDYNOFANSUB",
+    "enabled": false,
+    "sort_key": 330
+  },
+  {
+    "source": "ZINMANGA",
+    "enabled": false,
+    "sort_key": 331
+  },
+  {
+    "source": "APOLL_COMICS",
+    "enabled": false,
+    "sort_key": 332
+  },
+  {
+    "source": "ATLANTISSCAN",
+    "enabled": false,
+    "sort_key": 333
+  },
+  {
+    "source": "BARMANGA",
+    "enabled": false,
+    "sort_key": 334
+  },
+  {
+    "source": "BOKUGENTS",
+    "enabled": false,
+    "sort_key": 335
+  },
+  {
+    "source": "COCORIP",
+    "enabled": false,
+    "sort_key": 336
+  },
+  {
+    "source": "COPYPASTESCAN",
+    "enabled": false,
+    "sort_key": 337
+  },
+  {
+    "source": "DAPROB",
+    "enabled": false,
+    "sort_key": 338
+  },
+  {
+    "source": "DOUJIN_HENTAI_NET",
+    "enabled": false,
+    "sort_key": 339
+  },
+  {
+    "source": "DRAGONTRANSLATION",
+    "enabled": false,
+    "sort_key": 340
+  },
+  {
+    "source": "EMPERORSCAN",
+    "enabled": false,
+    "sort_key": 341
+  },
+  {
+    "source": "HADESNOFANSUB",
+    "enabled": false,
+    "sort_key": 342
+  },
+  {
+    "source": "HERENSCAN",
+    "enabled": false,
+    "sort_key": 343
+  },
+  {
+    "source": "HOUSEMANGAS",
+    "enabled": false,
+    "sort_key": 344
+  },
+  {
+    "source": "INFRAFANDUB",
+    "enabled": false,
+    "sort_key": 345
+  },
+  {
+    "source": "KENHUAV2SCANK",
+    "enabled": false,
+    "sort_key": 346
+  },
+  {
+    "source": "KNIGHTNOSCANLATION",
+    "enabled": false,
+    "sort_key": 347
+  },
+  {
+    "source": "KOINOBORISCAN",
+    "enabled": false,
+    "sort_key": 348
+  },
+  {
+    "source": "LECTORMANGA",
+    "enabled": false,
+    "sort_key": 349
+  },
+  {
+    "source": "LECTORUNITOON",
+    "enabled": false,
+    "sort_key": 350
+  },
+  {
+    "source": "LECTORUNM",
+    "enabled": false,
+    "sort_key": 351
+  },
+  {
+    "source": "LKSCANLATION",
+    "enabled": false,
+    "sort_key": 352
+  },
+  {
+    "source": "MANGA_CRAB",
+    "enabled": false,
+    "sort_key": 353
+  },
+  {
+    "source": "MANGALAND",
+    "enabled": false,
+    "sort_key": 354
+  },
+  {
+    "source": "MANGAMUNDODRAMA",
+    "enabled": false,
+    "sort_key": 355
+  },
+  {
+    "source": "MANGASNOSEKAI",
+    "enabled": false,
+    "sort_key": 356
+  },
+  {
+    "source": "MANGAXICO",
+    "enabled": false,
+    "sort_key": 357
+  },
+  {
+    "source": "MANHUAFENIX",
+    "enabled": false,
+    "sort_key": 358
+  },
+  {
+    "source": "MANHWA_ES",
+    "enabled": false,
+    "sort_key": 359
+  },
+  {
+    "source": "MANHWALATINO",
+    "enabled": false,
+    "sort_key": 360
+  },
+  {
+    "source": "MANTRAZSCAN",
+    "enabled": false,
+    "sort_key": 361
+  },
+  {
+    "source": "MHSCANS",
+    "enabled": false,
+    "sort_key": 362
+  },
+  {
+    "source": "MI2MANGAES",
+    "enabled": false,
+    "sort_key": 363
+  },
+  {
+    "source": "MONARCAMANGA",
+    "enabled": false,
+    "sort_key": 364
+  },
+  {
+    "source": "MUNDO_MANHWA",
+    "enabled": false,
+    "sort_key": 365
+  },
+  {
+    "source": "NOBLESSETRANSLATIONS",
+    "enabled": false,
+    "sort_key": 366
+  },
+  {
+    "source": "RAGNAROKSCAN",
+    "enabled": false,
+    "sort_key": 367
+  },
+  {
+    "source": "RAGNAROKSCANLATION",
+    "enabled": false,
+    "sort_key": 368
+  },
+  {
+    "source": "RICHTOSCAN",
+    "enabled": false,
+    "sort_key": 369
+  },
+  {
+    "source": "RIGHTDARKSCAN",
+    "enabled": false,
+    "sort_key": 370
+  },
+  {
+    "source": "SAMURAISCAN",
+    "enabled": false,
+    "sort_key": 371
+  },
+  {
+    "source": "SCAMBERTRASLATOR",
+    "enabled": false,
+    "sort_key": 372
+  },
+  {
+    "source": "STICKHORSE",
+    "enabled": false,
+    "sort_key": 373
+  },
+  {
+    "source": "TAURUSMANGA",
+    "enabled": false,
+    "sort_key": 374
+  },
+  {
+    "source": "TMOMANGA",
+    "enabled": false,
+    "sort_key": 375
+  },
+  {
+    "source": "TOPCOMICPORNO",
+    "enabled": false,
+    "sort_key": 376
+  },
+  {
+    "source": "VERMANHWA",
+    "enabled": false,
+    "sort_key": 377
+  },
+  {
+    "source": "ASTRALMANGA",
+    "enabled": false,
+    "sort_key": 378
+  },
+  {
+    "source": "BLUESOLO",
+    "enabled": false,
+    "sort_key": 379
+  },
+  {
+    "source": "FRSCAN",
+    "enabled": false,
+    "sort_key": 380
+  },
+  {
+    "source": "GLORYSCANSX",
+    "enabled": false,
+    "sort_key": 381
+  },
+  {
+    "source": "HENTAISCANTRADVF",
+    "enabled": false,
+    "sort_key": 382
+  },
+  {
+    "source": "HENTAIZONE",
+    "enabled": false,
+    "sort_key": 383
+  },
+  {
+    "source": "HHENTAIFR",
+    "enabled": false,
+    "sort_key": 384
+  },
+  {
+    "source": "MANGAHUB",
+    "enabled": false,
+    "sort_key": 385
+  },
+  {
+    "source": "MANGA_SCANTRAD",
+    "enabled": false,
+    "sort_key": 386
+  },
+  {
+    "source": "MANGASCANTRADUNOFFICIAL",
+    "enabled": false,
+    "sort_key": 387
+  },
+  {
+    "source": "MANGASORIGINES",
+    "enabled": false,
+    "sort_key": 388
+  },
+  {
+    "source": "MANGASORIGINESUNOFFICIAL",
+    "enabled": false,
+    "sort_key": 389
+  },
+  {
+    "source": "PANTHEONSCAN",
+    "enabled": false,
+    "sort_key": 390
+  },
+  {
+    "source": "RAIJINSCANS",
+    "enabled": false,
+    "sort_key": 391
+  },
+  {
+    "source": "READERGEN",
+    "enabled": false,
+    "sort_key": 392
+  },
+  {
+    "source": "REAPERSCANS_FR",
+    "enabled": false,
+    "sort_key": 393
+  },
+  {
+    "source": "SCANHENTAIMENU",
+    "enabled": false,
+    "sort_key": 394
+  },
+  {
+    "source": "SCANTRADVF",
+    "enabled": false,
+    "sort_key": 395
+  },
+  {
+    "source": "SHADOWTRAD",
+    "enabled": false,
+    "sort_key": 396
+  },
+  {
+    "source": "TOONFR",
+    "enabled": false,
+    "sort_key": 397
+  },
+  {
+    "source": "BIRDTOON",
+    "enabled": false,
+    "sort_key": 398
+  },
+  {
+    "source": "INDO18H",
+    "enabled": false,
+    "sort_key": 399
+  },
+  {
+    "source": "KLIKMANGA",
+    "enabled": false,
+    "sort_key": 400
+  },
+  {
+    "source": "MANHWAHUB",
+    "enabled": false,
+    "sort_key": 401
+  },
+  {
+    "source": "MGKOMIK",
+    "enabled": false,
+    "sort_key": 402
+  },
+  {
+    "source": "POJOKMANGA",
+    "enabled": false,
+    "sort_key": 403
+  },
+  {
+    "source": "SHINIGAMI",
+    "enabled": false,
+    "sort_key": 404
+  },
+  {
+    "source": "WORLDMANHWAS",
+    "enabled": false,
+    "sort_key": 405
+  },
+  {
+    "source": "BEYONDTHEATARAXIA",
+    "enabled": false,
+    "sort_key": 406
+  },
+  {
+    "source": "RAWDEX",
+    "enabled": false,
+    "sort_key": 407
+  },
+  {
+    "source": "APENASMAISUMYAOI",
+    "enabled": false,
+    "sort_key": 408
+  },
+  {
+    "source": "ARTHUR_SCAN",
+    "enabled": false,
+    "sort_key": 409
+  },
+  {
+    "source": "ASTRUMSCANS",
+    "enabled": false,
+    "sort_key": 410
+  },
+  {
+    "source": "BURNINGSCANS",
+    "enabled": false,
+    "sort_key": 411
+  },
+  {
+    "source": "CABAREDOWATAME",
+    "enabled": false,
+    "sort_key": 412
+  },
+  {
+    "source": "CAFECOMYAOI",
+    "enabled": false,
+    "sort_key": 413
+  },
+  {
+    "source": "CERISE_SCANS",
+    "enabled": false,
+    "sort_key": 414
+  },
+  {
+    "source": "CRYSTALSCAN",
+    "enabled": false,
+    "sort_key": 415
+  },
+  {
+    "source": "CVNSCAN",
+    "enabled": false,
+    "sort_key": 416
+  },
+  {
+    "source": "DEMONSECT",
+    "enabled": false,
+    "sort_key": 417
+  },
+  {
+    "source": "DIANXIATRADS",
+    "enabled": false,
+    "sort_key": 418
+  },
+  {
+    "source": "FAYSCANS",
+    "enabled": false,
+    "sort_key": 419
+  },
+  {
+    "source": "FBSQUADS",
+    "enabled": false,
+    "sort_key": 420
+  },
+  {
+    "source": "FLOWERMANGA",
+    "enabled": false,
+    "sort_key": 421
+  },
+  {
+    "source": "FOXWHITE",
+    "enabled": false,
+    "sort_key": 422
+  },
+  {
+    "source": "GEKKOUSCANS",
+    "enabled": false,
+    "sort_key": 423
+  },
+  {
+    "source": "GHOSTSCAN",
+    "enabled": false,
+    "sort_key": 424
+  },
+  {
+    "source": "GOOFFANSUB",
+    "enabled": false,
+    "sort_key": 425
+  },
+  {
+    "source": "HENTAITECA",
+    "enabled": false,
+    "sort_key": 426
+  },
+  {
+    "source": "HIPERCOOL",
+    "enabled": false,
+    "sort_key": 427
+  },
+  {
+    "source": "HUNTERSSCAN",
+    "enabled": false,
+    "sort_key": 428
+  },
+  {
+    "source": "ILLUSIONSCAN",
+    "enabled": false,
+    "sort_key": 429
+  },
+  {
+    "source": "IMPERIOSCANS",
+    "enabled": false,
+    "sort_key": 430
+  },
+  {
+    "source": "IMPERIODABRITANNIA",
+    "enabled": false,
+    "sort_key": 431
+  },
+  {
+    "source": "KAKUSEIPROJECT",
+    "enabled": false,
+    "sort_key": 432
+  },
+  {
+    "source": "LEITORKAMISAMA",
+    "enabled": false,
+    "sort_key": 433
+  },
+  {
+    "source": "LIMBOSCAN",
+    "enabled": false,
+    "sort_key": 434
+  },
+  {
+    "source": "LINKSTARTSCAN",
+    "enabled": false,
+    "sort_key": 435
+  },
+  {
+    "source": "LUNARSCAN",
+    "enabled": false,
+    "sort_key": 436
+  },
+  {
+    "source": "MAIDSCAN",
+    "enabled": false,
+    "sort_key": 437
+  },
+  {
+    "source": "MANGANANQUIM",
+    "enabled": false,
+    "sort_key": 438
+  },
+  {
+    "source": "MANHASTRO",
+    "enabled": false,
+    "sort_key": 439
+  },
+  {
+    "source": "MOMONOHANASCAN",
+    "enabled": false,
+    "sort_key": 440
+  },
+  {
+    "source": "MOONLOVERSSCAN",
+    "enabled": false,
+    "sort_key": 441
+  },
+  {
+    "source": "MOONWITCHINLOVESCAN",
+    "enabled": false,
+    "sort_key": 442
+  },
+  {
+    "source": "NEOX_SCANS",
+    "enabled": false,
+    "sort_key": 443
+  },
+  {
+    "source": "NINJASCAN",
+    "enabled": false,
+    "sort_key": 444
+  },
+  {
+    "source": "NOCSUMMER",
+    "enabled": false,
+    "sort_key": 445
+  },
+  {
+    "source": "NOINDEXSCAN",
+    "enabled": false,
+    "sort_key": 446
+  },
+  {
+    "source": "PASSAMAOSCAN",
+    "enabled": false,
+    "sort_key": 447
+  },
+  {
+    "source": "PIRULITOROSA",
+    "enabled": false,
+    "sort_key": 448
+  },
+  {
+    "source": "PORTALYAOI",
+    "enabled": false,
+    "sort_key": 449
+  },
+  {
+    "source": "PRISMA_HENTAI",
+    "enabled": false,
+    "sort_key": 450
+  },
+  {
+    "source": "PROJETOSCANLATOR",
+    "enabled": false,
+    "sort_key": 451
+  },
+  {
+    "source": "PSUNICORN",
+    "enabled": false,
+    "sort_key": 452
+  },
+  {
+    "source": "RAINBOWFAIRYSCAN",
+    "enabled": false,
+    "sort_key": 453
+  },
+  {
+    "source": "RANDOMSCANS",
+    "enabled": false,
+    "sort_key": 454
+  },
+  {
+    "source": "REMANGAS",
+    "enabled": false,
+    "sort_key": 455
+  },
+  {
+    "source": "ROGMANGAS",
+    "enabled": false,
+    "sort_key": 456
+  },
+  {
+    "source": "SINENSISSCANS",
+    "enabled": false,
+    "sort_key": 457
+  },
+  {
+    "source": "SWEETSCAN",
+    "enabled": false,
+    "sort_key": 458
+  },
+  {
+    "source": "TANKOUHENTAI",
+    "enabled": false,
+    "sort_key": 459
+  },
+  {
+    "source": "TATAKAE_SCANS",
+    "enabled": false,
+    "sort_key": 460
+  },
+  {
+    "source": "VALKYRIESCAN",
+    "enabled": false,
+    "sort_key": 461
+  },
+  {
+    "source": "WICKEDWITCHSCAN",
+    "enabled": false,
+    "sort_key": 462
+  },
+  {
+    "source": "WINTERSCAN",
+    "enabled": false,
+    "sort_key": 463
+  },
+  {
+    "source": "WONDERLANDSCAN",
+    "enabled": false,
+    "sort_key": 464
+  },
+  {
+    "source": "YANPFANSUB",
+    "enabled": false,
+    "sort_key": 465
+  },
+  {
+    "source": "YCSCAN",
+    "enabled": false,
+    "sort_key": 466
+  },
+  {
+    "source": "YURILIVE",
+    "enabled": false,
+    "sort_key": 467
+  },
+  {
+    "source": "BEST_MANGA",
+    "enabled": false,
+    "sort_key": 468
+  },
+  {
+    "source": "MANGAMAMMY",
+    "enabled": false,
+    "sort_key": 469
+  },
+  {
+    "source": "MANGAONELOVE",
+    "enabled": false,
+    "sort_key": 470
+  },
+  {
+    "source": "MANGAZAVR",
+    "enabled": false,
+    "sort_key": 471
+  },
+  {
+    "source": "BAKAMAN",
+    "enabled": false,
+    "sort_key": 472
+  },
+  {
+    "source": "CAT_300",
+    "enabled": false,
+    "sort_key": 473
+  },
+  {
+    "source": "DOUJINZA",
+    "enabled": false,
+    "sort_key": 474
+  },
+  {
+    "source": "KINGS_MANGA",
+    "enabled": false,
+    "sort_key": 475
+  },
+  {
+    "source": "MANGALC",
+    "enabled": false,
+    "sort_key": 476
+  },
+  {
+    "source": "MANGADEEMAK",
+    "enabled": false,
+    "sort_key": 477
+  },
+  {
+    "source": "MANHUABUG",
+    "enabled": false,
+    "sort_key": 478
+  },
+  {
+    "source": "MANHUAKEY",
+    "enabled": false,
+    "sort_key": 479
+  },
+  {
+    "source": "NEKOPOST",
+    "enabled": false,
+    "sort_key": 480
+  },
+  {
+    "source": "RHPLUSMANGA",
+    "enabled": false,
+    "sort_key": 481
+  },
+  {
+    "source": "ALLIED_FANSUB",
+    "enabled": false,
+    "sort_key": 482
+  },
+  {
+    "source": "ANIKIGA",
+    "enabled": false,
+    "sort_key": 483
+  },
+  {
+    "source": "ANISA_MANGA",
+    "enabled": false,
+    "sort_key": 484
+  },
+  {
+    "source": "ARAZNOVEL",
+    "enabled": false,
+    "sort_key": 485
+  },
+  {
+    "source": "CLOVERMANGA",
+    "enabled": false,
+    "sort_key": 486
+  },
+  {
+    "source": "DIAMONDFANSUB",
+    "enabled": false,
+    "sort_key": 487
+  },
+  {
+    "source": "DOMALFANSB",
+    "enabled": false,
+    "sort_key": 488
+  },
+  {
+    "source": "ESOMANGA",
+    "enabled": false,
+    "sort_key": 489
+  },
+  {
+    "source": "GHOSTFANSUB",
+    "enabled": false,
+    "sort_key": 490
+  },
+  {
+    "source": "GLORYMANGA",
+    "enabled": false,
+    "sort_key": 491
+  },
+  {
+    "source": "GUNCEL_MANGA",
+    "enabled": false,
+    "sort_key": 492
+  },
+  {
+    "source": "HAYALISTIC",
+    "enabled": false,
+    "sort_key": 493
+  },
+  {
+    "source": "HOIFANSUB",
+    "enabled": false,
+    "sort_key": 494
+  },
+  {
+    "source": "JIANGZAITOON",
+    "enabled": false,
+    "sort_key": 495
+  },
+  {
+    "source": "KUROIMANGA",
+    "enabled": false,
+    "sort_key": 496
+  },
+  {
+    "source": "LAVINIAFANSUB",
+    "enabled": false,
+    "sort_key": 497
+  },
+  {
+    "source": "LILYUMFANSUB",
+    "enabled": false,
+    "sort_key": 498
+  },
+  {
+    "source": "LUNASCANS",
+    "enabled": false,
+    "sort_key": 499
+  },
+  {
+    "source": "MANGASEHRINET",
+    "enabled": false,
+    "sort_key": 500
+  },
+  {
+    "source": "MANGATR",
+    "enabled": false,
+    "sort_key": 501
+  },
+  {
+    "source": "MANGAWOW",
+    "enabled": false,
+    "sort_key": 502
+  },
+  {
+    "source": "MANGAOKU",
+    "enabled": false,
+    "sort_key": 503
+  },
+  {
+    "source": "MANGASEHRI",
+    "enabled": false,
+    "sort_key": 504
+  },
+  {
+    "source": "MANGAWT",
+    "enabled": false,
+    "sort_key": 505
+  },
+  {
+    "source": "MANWE",
+    "enabled": false,
+    "sort_key": 506
+  },
+  {
+    "source": "MINDAFANSUB",
+    "enabled": false,
+    "sort_key": 507
+  },
+  {
+    "source": "NIVERAFANSUB",
+    "enabled": false,
+    "sort_key": 508
+  },
+  {
+    "source": "PIEDPIPERFANSUB",
+    "enabled": false,
+    "sort_key": 509
+  },
+  {
+    "source": "ROMANTIKMANGA",
+    "enabled": false,
+    "sort_key": 510
+  },
+  {
+    "source": "RUYAMANGA",
+    "enabled": false,
+    "sort_key": 511
+  },
+  {
+    "source": "SARCASMSCANS",
+    "enabled": false,
+    "sort_key": 512
+  },
+  {
+    "source": "STRAYFANSUB",
+    "enabled": false,
+    "sort_key": 513
+  },
+  {
+    "source": "TIMENAIGHT",
+    "enabled": false,
+    "sort_key": 514
+  },
+  {
+    "source": "TITANMANGA",
+    "enabled": false,
+    "sort_key": 515
+  },
+  {
+    "source": "TONIZUTOON",
+    "enabled": false,
+    "sort_key": 516
+  },
+  {
+    "source": "TORTUGACEVIRI",
+    "enabled": false,
+    "sort_key": 517
+  },
+  {
+    "source": "VIYAFANSUB",
+    "enabled": false,
+    "sort_key": 518
+  },
+  {
+    "source": "WEBTOONHATTI",
+    "enabled": false,
+    "sort_key": 519
+  },
+  {
+    "source": "WEBTOONTR",
+    "enabled": false,
+    "sort_key": 520
+  },
+  {
+    "source": "YAOITR",
+    "enabled": false,
+    "sort_key": 521
+  },
+  {
+    "source": "HENTAICUBE",
+    "enabled": false,
+    "sort_key": 522
+  },
+  {
+    "source": "MANGAZODIAC",
+    "enabled": false,
+    "sort_key": 523
+  },
+  {
+    "source": "QUAANHDAOCUTEO",
+    "enabled": false,
+    "sort_key": 524
+  },
+  {
+    "source": "SAYTRUYENHAY",
+    "enabled": false,
+    "sort_key": 525
+  },
+  {
+    "source": "TRUYENTRANHDAMMYY",
+    "enabled": false,
+    "sort_key": 526
+  },
+  {
+    "source": "BAKAMH",
+    "enabled": false,
+    "sort_key": 527
+  },
+  {
+    "source": "BEEHENTAI",
+    "enabled": false,
+    "sort_key": 528
+  },
+  {
+    "source": "MANGABUDDY",
+    "enabled": false,
+    "sort_key": 529
+  },
+  {
+    "source": "MANGACUTE",
+    "enabled": false,
+    "sort_key": 530
+  },
+  {
+    "source": "MANGAFOREST",
+    "enabled": false,
+    "sort_key": 531
+  },
+  {
+    "source": "MANGAJINX",
+    "enabled": false,
+    "sort_key": 532
+  },
+  {
+    "source": "MANGAPUMA",
+    "enabled": false,
+    "sort_key": 533
+  },
+  {
+    "source": "MANGAXYZ",
+    "enabled": false,
+    "sort_key": 534
+  },
+  {
+    "source": "MANHUASCAN",
+    "enabled": false,
+    "sort_key": 535
+  },
+  {
+    "source": "TOONITUBE",
+    "enabled": false,
+    "sort_key": 536
+  },
+  {
+    "source": "TOONILY_ME",
+    "enabled": false,
+    "sort_key": 537
+  },
+  {
+    "source": "TRUEMANGA",
+    "enabled": false,
+    "sort_key": 538
+  },
+  {
+    "source": "HENTAI3ZCC",
+    "enabled": false,
+    "sort_key": 539
+  },
+  {
+    "source": "MANGA18",
+    "enabled": false,
+    "sort_key": 540
+  },
+  {
+    "source": "PORNCOMIC18",
+    "enabled": false,
+    "sort_key": 541
+  },
+  {
+    "source": "TUMANHWAS",
+    "enabled": false,
+    "sort_key": 542
+  },
+  {
+    "source": "HANMAN18",
+    "enabled": false,
+    "sort_key": 543
+  },
+  {
+    "source": "MANGANELO_COM",
+    "enabled": false,
+    "sort_key": 544
+  },
+  {
+    "source": "HMANGABAT",
+    "enabled": false,
+    "sort_key": 545
+  },
+  {
+    "source": "MANGAIRO",
+    "enabled": false,
+    "sort_key": 546
+  },
+  {
+    "source": "MANGAKAKALOT",
+    "enabled": false,
+    "sort_key": 547
+  },
+  {
+    "source": "MANGAKAKALOTTV",
+    "enabled": false,
+    "sort_key": 548
+  },
+  {
+    "source": "MANGANATO",
+    "enabled": false,
+    "sort_key": 549
+  },
+  {
+    "source": "AREASCANS",
+    "enabled": false,
+    "sort_key": 550
+  },
+  {
+    "source": "ARESMANGA",
+    "enabled": false,
+    "sort_key": 551
+  },
+  {
+    "source": "BEASTSCANS",
+    "enabled": false,
+    "sort_key": 552
+  },
+  {
+    "source": "ELITON",
+    "enabled": false,
+    "sort_key": 553
+  },
+  {
+    "source": "ENARESMANGA",
+    "enabled": false,
+    "sort_key": 554
+  },
+  {
+    "source": "KINGOFMANGA",
+    "enabled": false,
+    "sort_key": 555
+  },
+  {
+    "source": "KINGOFSHOJO",
+    "enabled": false,
+    "sort_key": 556
+  },
+  {
+    "source": "MANGAFLAME",
+    "enabled": false,
+    "sort_key": 557
+  },
+  {
+    "source": "MANJANOON",
+    "enabled": false,
+    "sort_key": 558
+  },
+  {
+    "source": "POTATOMANGA",
+    "enabled": false,
+    "sort_key": 559
+  },
+  {
+    "source": "SWATEAM",
+    "enabled": false,
+    "sort_key": 560
+  },
+  {
+    "source": "VEXMANGA",
+    "enabled": false,
+    "sort_key": 561
+  },
+  {
+    "source": "EVILMANGA",
+    "enabled": false,
+    "sort_key": 562
+  },
+  {
+    "source": "AGSCOMICS",
+    "enabled": false,
+    "sort_key": 563
+  },
+  {
+    "source": "ANIGLISCANS",
+    "enabled": false,
+    "sort_key": 564
+  },
+  {
+    "source": "ARVENSCANS",
+    "enabled": false,
+    "sort_key": 565
+  },
+  {
+    "source": "ASCALONSCANS",
+    "enabled": false,
+    "sort_key": 566
+  },
+  {
+    "source": "ASTRASCANS",
+    "enabled": false,
+    "sort_key": 567
+  },
+  {
+    "source": "ASURASCANS",
+    "enabled": false,
+    "sort_key": 568
+  },
+  {
+    "source": "AZUREMANGA",
+    "enabled": false,
+    "sort_key": 569
+  },
+  {
+    "source": "BABELTOON",
+    "enabled": false,
+    "sort_key": 570
+  },
+  {
+    "source": "BIRDMANGA",
+    "enabled": false,
+    "sort_key": 571
+  },
+  {
+    "source": "CONSTELLARCOMIC",
+    "enabled": false,
+    "sort_key": 572
+  },
+  {
+    "source": "COSMICSCANS",
+    "enabled": false,
+    "sort_key": 573
+  },
+  {
+    "source": "CULTUREDWORKS",
+    "enabled": false,
+    "sort_key": 574
+  },
+  {
+    "source": "CYPHERSCANS",
+    "enabled": false,
+    "sort_key": 575
+  },
+  {
+    "source": "ELARCPAGE",
+    "enabled": false,
+    "sort_key": 576
+  },
+  {
+    "source": "FLAMECOMICS",
+    "enabled": false,
+    "sort_key": 577
+  },
+  {
+    "source": "FREAKCOMIC",
+    "enabled": false,
+    "sort_key": 578
+  },
+  {
+    "source": "FREAKSCANS",
+    "enabled": false,
+    "sort_key": 579
+  },
+  {
+    "source": "HENTAI20",
+    "enabled": false,
+    "sort_key": 580
+  },
+  {
+    "source": "KAISCANS",
+    "enabled": false,
+    "sort_key": 581
+  },
+  {
+    "source": "KOMIKLAB",
+    "enabled": false,
+    "sort_key": 582
+  },
+  {
+    "source": "LIGHTSCANS",
+    "enabled": false,
+    "sort_key": 583
+  },
+  {
+    "source": "LUMINOUSSCANS",
+    "enabled": false,
+    "sort_key": 584
+  },
+  {
+    "source": "LUNAR_SCAN",
+    "enabled": false,
+    "sort_key": 585
+  },
+  {
+    "source": "MAGUSMANGA",
+    "enabled": false,
+    "sort_key": 586
+  },
+  {
+    "source": "MANGAGENKI",
+    "enabled": false,
+    "sort_key": 587
+  },
+  {
+    "source": "MANHUASCANUS",
+    "enabled": false,
+    "sort_key": 588
+  },
+  {
+    "source": "MANHWA_FREAK",
+    "enabled": false,
+    "sort_key": 589
+  },
+  {
+    "source": "MANHWALOVER",
+    "enabled": false,
+    "sort_key": 590
+  },
+  {
+    "source": "MANHWAX",
+    "enabled": false,
+    "sort_key": 591
+  },
+  {
+    "source": "MANJANOON_EN",
+    "enabled": false,
+    "sort_key": 592
+  },
+  {
+    "source": "NIGHTSCANS",
+    "enabled": false,
+    "sort_key": 593
+  },
+  {
+    "source": "PEACESCANS",
+    "enabled": false,
+    "sort_key": 594
+  },
+  {
+    "source": "RAISCANS",
+    "enabled": false,
+    "sort_key": 595
+  },
+  {
+    "source": "RAVENSCANS",
+    "enabled": false,
+    "sort_key": 596
+  },
+  {
+    "source": "READERSPOINT",
+    "enabled": false,
+    "sort_key": 597
+  },
+  {
+    "source": "READKOMIK",
+    "enabled": false,
+    "sort_key": 598
+  },
+  {
+    "source": "RIZZCOMIC",
+    "enabled": false,
+    "sort_key": 599
+  },
+  {
+    "source": "SKY_MANGA",
+    "enabled": false,
+    "sort_key": 600
+  },
+  {
+    "source": "SURYASCANS",
+    "enabled": false,
+    "sort_key": 601
+  },
+  {
+    "source": "VOIDSCANS",
+    "enabled": false,
+    "sort_key": 602
+  },
+  {
+    "source": "XCALIBRSCANS",
+    "enabled": false,
+    "sort_key": 603
+  },
+  {
+    "source": "ZAHARD",
+    "enabled": false,
+    "sort_key": 604
+  },
+  {
+    "source": "AIYUMANGASCANLATION",
+    "enabled": false,
+    "sort_key": 605
+  },
+  {
+    "source": "CARTELDEMANHWAS",
+    "enabled": false,
+    "sort_key": 606
+  },
+  {
+    "source": "GREMORYMANGAS",
+    "enabled": false,
+    "sort_key": 607
+  },
+  {
+    "source": "INARIMANGA",
+    "enabled": false,
+    "sort_key": 608
+  },
+  {
+    "source": "MANGASHIINA",
+    "enabled": false,
+    "sort_key": 609
+  },
+  {
+    "source": "MIAUSCAN",
+    "enabled": false,
+    "sort_key": 610
+  },
+  {
+    "source": "NEKOSCANS",
+    "enabled": false,
+    "sort_key": 611
+  },
+  {
+    "source": "RAGNASCAN",
+    "enabled": false,
+    "sort_key": 612
+  },
+  {
+    "source": "RAIKISCAN",
+    "enabled": false,
+    "sort_key": 613
+  },
+  {
+    "source": "SENPAIEDICIONES",
+    "enabled": false,
+    "sort_key": 614
+  },
+  {
+    "source": "SHADOWMANGAS",
+    "enabled": false,
+    "sort_key": 615
+  },
+  {
+    "source": "SKYMANGAS",
+    "enabled": false,
+    "sort_key": 616
+  },
+  {
+    "source": "TECNOSCANN",
+    "enabled": false,
+    "sort_key": 617
+  },
+  {
+    "source": "TENKAISCAN",
+    "enabled": false,
+    "sort_key": 618
+  },
+  {
+    "source": "TRADUCCIONESMOONLIGHT",
+    "enabled": false,
+    "sort_key": 619
+  },
+  {
+    "source": "TRESDAOS",
+    "enabled": false,
+    "sort_key": 620
+  },
+  {
+    "source": "TU_MANHWAS",
+    "enabled": false,
+    "sort_key": 621
+  },
+  {
+    "source": "BANANASCAN",
+    "enabled": false,
+    "sort_key": 622
+  },
+  {
+    "source": "EPSILONSCAN",
+    "enabled": false,
+    "sort_key": 623
+  },
+  {
+    "source": "GLORYSCANS",
+    "enabled": false,
+    "sort_key": 624
+  },
+  {
+    "source": "LELMANGA",
+    "enabled": false,
+    "sort_key": 625
+  },
+  {
+    "source": "PANTHEONSCAN_FR",
+    "enabled": false,
+    "sort_key": 626
+  },
+  {
+    "source": "PHENIXSCANS",
+    "enabled": false,
+    "sort_key": 627
+  },
+  {
+    "source": "SUSHISCAN",
+    "enabled": false,
+    "sort_key": 628
+  },
+  {
+    "source": "SUSHISCANFR",
+    "enabled": false,
+    "sort_key": 629
+  },
+  {
+    "source": "VFSCAN",
+    "enabled": false,
+    "sort_key": 630
+  },
+  {
+    "source": "AINZSCANS",
+    "enabled": false,
+    "sort_key": 631
+  },
+  {
+    "source": "ALCEASCAN",
+    "enabled": false,
+    "sort_key": 632
+  },
+  {
+    "source": "COMICASO",
+    "enabled": false,
+    "sort_key": 633
+  },
+  {
+    "source": "COSMIC_SCANS",
+    "enabled": false,
+    "sort_key": 634
+  },
+  {
+    "source": "DOJING",
+    "enabled": false,
+    "sort_key": 635
+  },
+  {
+    "source": "DOUJINDESURIP",
+    "enabled": false,
+    "sort_key": 636
+  },
+  {
+    "source": "DOUJINKU",
+    "enabled": false,
+    "sort_key": 637
+  },
+  {
+    "source": "DUNIAKOMIK",
+    "enabled": false,
+    "sort_key": 638
+  },
+  {
+    "source": "FUTARI",
+    "enabled": false,
+    "sort_key": 639
+  },
+  {
+    "source": "KANZENIN",
+    "enabled": false,
+    "sort_key": 640
+  },
+  {
+    "source": "KATAKOMIK",
+    "enabled": false,
+    "sort_key": 641
+  },
+  {
+    "source": "KIRYUU",
+    "enabled": false,
+    "sort_key": 642
+  },
+  {
+    "source": "KOMIKAV",
+    "enabled": false,
+    "sort_key": 643
+  },
+  {
+    "source": "KOMIKDEWASA_ONLINE",
+    "enabled": false,
+    "sort_key": 644
+  },
+  {
+    "source": "KOMIKDEWASA",
+    "enabled": false,
+    "sort_key": 645
+  },
+  {
+    "source": "KOMIKINDO",
+    "enabled": false,
+    "sort_key": 646
+  },
+  {
+    "source": "KOMIKLOKAL",
+    "enabled": false,
+    "sort_key": 647
+  },
+  {
+    "source": "KOMIKSAN",
+    "enabled": false,
+    "sort_key": 648
+  },
+  {
+    "source": "KOMIKSAY",
+    "enabled": false,
+    "sort_key": 649
+  },
+  {
+    "source": "KOMIKTAP",
+    "enabled": false,
+    "sort_key": 650
+  },
+  {
+    "source": "KOMIKCAST",
+    "enabled": false,
+    "sort_key": 651
+  },
+  {
+    "source": "KOMIKGO",
+    "enabled": false,
+    "sort_key": 652
+  },
+  {
+    "source": "KOMIKLOKALCFD",
+    "enabled": false,
+    "sort_key": 653
+  },
+  {
+    "source": "KOMIKSTATION",
+    "enabled": false,
+    "sort_key": 654
+  },
+  {
+    "source": "KOMIKU",
+    "enabled": false,
+    "sort_key": 655
+  },
+  {
+    "source": "LIANSCANS",
+    "enabled": false,
+    "sort_key": 656
+  },
+  {
+    "source": "MANGASHIRO",
+    "enabled": false,
+    "sort_key": 657
+  },
+  {
+    "source": "MANGASUSUKU",
+    "enabled": false,
+    "sort_key": 658
+  },
+  {
+    "source": "MANGATALE",
+    "enabled": false,
+    "sort_key": 659
+  },
+  {
+    "source": "MANGADOP",
+    "enabled": false,
+    "sort_key": 660
+  },
+  {
+    "source": "MANGAKITA",
+    "enabled": false,
+    "sort_key": 661
+  },
+  {
+    "source": "MANGAKYO",
+    "enabled": false,
+    "sort_key": 662
+  },
+  {
+    "source": "MANGAYARO",
+    "enabled": false,
+    "sort_key": 663
+  },
+  {
+    "source": "MANHWAINDOICU",
+    "enabled": false,
+    "sort_key": 664
+  },
+  {
+    "source": "MANHWAINDO",
+    "enabled": false,
+    "sort_key": 665
+  },
+  {
+    "source": "MANHWALAND",
+    "enabled": false,
+    "sort_key": 666
+  },
+  {
+    "source": "MANHWAPLUS",
+    "enabled": false,
+    "sort_key": 667
+  },
+  {
+    "source": "MANHWADESU",
+    "enabled": false,
+    "sort_key": 668
+  },
+  {
+    "source": "MANHWALIST",
+    "enabled": false,
+    "sort_key": 669
+  },
+  {
+    "source": "MASTERKOMIK",
+    "enabled": false,
+    "sort_key": 670
+  },
+  {
+    "source": "MELOKOMIK",
+    "enabled": false,
+    "sort_key": 671
+  },
+  {
+    "source": "MIRAISCANS",
+    "enabled": false,
+    "sort_key": 672
+  },
+  {
+    "source": "NATSU",
+    "enabled": false,
+    "sort_key": 673
+  },
+  {
+    "source": "NONBIRI",
+    "enabled": false,
+    "sort_key": 674
+  },
+  {
+    "source": "NOROMAX",
+    "enabled": false,
+    "sort_key": 675
+  },
+  {
+    "source": "OTSUGAMI",
+    "enabled": false,
+    "sort_key": 676
+  },
+  {
+    "source": "SEKAIKOMIK",
+    "enabled": false,
+    "sort_key": 677
+  },
+  {
+    "source": "SEKTEDOUJIN",
+    "enabled": false,
+    "sort_key": 678
+  },
+  {
+    "source": "SHEAKOMIK",
+    "enabled": false,
+    "sort_key": 679
+  },
+  {
+    "source": "SHIRAKAMI",
+    "enabled": false,
+    "sort_key": 680
+  },
+  {
+    "source": "SIRENKOMIK",
+    "enabled": false,
+    "sort_key": 681
+  },
+  {
+    "source": "SOULSCANS",
+    "enabled": false,
+    "sort_key": 682
+  },
+  {
+    "source": "TUKANGKOMIK",
+    "enabled": false,
+    "sort_key": 683
+  },
+  {
+    "source": "WARUNGKOMIK",
+    "enabled": false,
+    "sort_key": 684
+  },
+  {
+    "source": "WESTMANGA",
+    "enabled": false,
+    "sort_key": 685
+  },
+  {
+    "source": "YUMEKOMIK",
+    "enabled": false,
+    "sort_key": 686
+  },
+  {
+    "source": "YURILAB",
+    "enabled": false,
+    "sort_key": 687
+  },
+  {
+    "source": "WALPURGISCAN",
+    "enabled": false,
+    "sort_key": 688
+  },
+  {
+    "source": "WITCOMICS",
+    "enabled": false,
+    "sort_key": 689
+  },
+  {
+    "source": "MANGAJP",
+    "enabled": false,
+    "sort_key": 690
+  },
+  {
+    "source": "MANGAMATE",
+    "enabled": false,
+    "sort_key": 691
+  },
+  {
+    "source": "RAWKUMA",
+    "enabled": false,
+    "sort_key": 692
+  },
+  {
+    "source": "SKANLACJEFENIKSY",
+    "enabled": false,
+    "sort_key": 693
+  },
+  {
+    "source": "DISKUSSCAN",
+    "enabled": false,
+    "sort_key": 694
+  },
+  {
+    "source": "FRANXXMANGAS",
+    "enabled": false,
+    "sort_key": 695
+  },
+  {
+    "source": "HIKARISCAN",
+    "enabled": false,
+    "sort_key": 696
+  },
+  {
+    "source": "IRISSCANLATOR",
+    "enabled": false,
+    "sort_key": 697
+  },
+  {
+    "source": "MANGASCHAN",
+    "enabled": false,
+    "sort_key": 698
+  },
+  {
+    "source": "MANGASONLINE",
+    "enabled": false,
+    "sort_key": 699
+  },
+  {
+    "source": "ORIGAMIORPHEANS",
+    "enabled": false,
+    "sort_key": 700
+  },
+  {
+    "source": "SILENCESCAN",
+    "enabled": false,
+    "sort_key": 701
+  },
+  {
+    "source": "SSSSCANLATOR",
+    "enabled": false,
+    "sort_key": 702
+  },
+  {
+    "source": "TSUNDOKU",
+    "enabled": false,
+    "sort_key": 703
+  },
+  {
+    "source": "DOUJIN69",
+    "enabled": false,
+    "sort_key": 704
+  },
+  {
+    "source": "INUMANGA",
+    "enabled": false,
+    "sort_key": 705
+  },
+  {
+    "source": "LAMIMANGA",
+    "enabled": false,
+    "sort_key": 706
+  },
+  {
+    "source": "MAFIAMANGA",
+    "enabled": false,
+    "sort_key": 707
+  },
+  {
+    "source": "MANGA168",
+    "enabled": false,
+    "sort_key": 708
+  },
+  {
+    "source": "MANGA689",
+    "enabled": false,
+    "sort_key": 709
+  },
+  {
+    "source": "MANGAMOONS",
+    "enabled": false,
+    "sort_key": 710
+  },
+  {
+    "source": "POPSMANGA",
+    "enabled": false,
+    "sort_key": 711
+  },
+  {
+    "source": "SODSAIME",
+    "enabled": false,
+    "sort_key": 712
+  },
+  {
+    "source": "THAIMANGA",
+    "enabled": false,
+    "sort_key": 713
+  },
+  {
+    "source": "TOOMTAMMANGA",
+    "enabled": false,
+    "sort_key": 714
+  },
+  {
+    "source": "TOONHUNTER",
+    "enabled": false,
+    "sort_key": 715
+  },
+  {
+    "source": "ADONISFANSUB",
+    "enabled": false,
+    "sort_key": 716
+  },
+  {
+    "source": "AFRODITSCANS",
+    "enabled": false,
+    "sort_key": 717
+  },
+  {
+    "source": "ARCURAFANSUB",
+    "enabled": false,
+    "sort_key": 718
+  },
+  {
+    "source": "ASURATR",
+    "enabled": false,
+    "sort_key": 719
+  },
+  {
+    "source": "AYATOON",
+    "enabled": false,
+    "sort_key": 720
+  },
+  {
+    "source": "GOLGEBAHCESI",
+    "enabled": false,
+    "sort_key": 721
+  },
+  {
+    "source": "LSHISTORIA",
+    "enabled": false,
+    "sort_key": 722
+  },
+  {
+    "source": "MAJORSCANS",
+    "enabled": false,
+    "sort_key": 723
+  },
+  {
+    "source": "MANGAGEZGINI",
+    "enabled": false,
+    "sort_key": 724
+  },
+  {
+    "source": "MANGAKINGS",
+    "enabled": false,
+    "sort_key": 725
+  },
+  {
+    "source": "MANGACIM",
+    "enabled": false,
+    "sort_key": 726
+  },
+  {
+    "source": "MANGAEFENDISI",
+    "enabled": false,
+    "sort_key": 727
+  },
+  {
+    "source": "MANGAOKUTR",
+    "enabled": false,
+    "sort_key": 728
+  },
+  {
+    "source": "MERLINSCANS",
+    "enabled": false,
+    "sort_key": 729
+  },
+  {
+    "source": "MILASUB",
+    "enabled": false,
+    "sort_key": 730
+  },
+  {
+    "source": "MOONDAISY_SCANS",
+    "enabled": false,
+    "sort_key": 731
+  },
+  {
+    "source": "NIRVANAMANGA",
+    "enabled": false,
+    "sort_key": 732
+  },
+  {
+    "source": "NYXMANGA",
+    "enabled": false,
+    "sort_key": 733
+  },
+  {
+    "source": "PATIMANGA",
+    "enabled": false,
+    "sort_key": 734
+  },
+  {
+    "source": "RAINDROPTEAMFAN",
+    "enabled": false,
+    "sort_key": 735
+  },
+  {
+    "source": "REAPERSCANSTR",
+    "enabled": false,
+    "sort_key": 736
+  },
+  {
+    "source": "ROBINMANGA",
+    "enabled": false,
+    "sort_key": 737
+  },
+  {
+    "source": "SUMMERTOON",
+    "enabled": false,
+    "sort_key": 738
+  },
+  {
+    "source": "TAROTSCANS",
+    "enabled": false,
+    "sort_key": 739
+  },
+  {
+    "source": "TEMPESTFANSUBNET",
+    "enabled": false,
+    "sort_key": 740
+  },
+  {
+    "source": "TEMPESTFANSUB",
+    "enabled": false,
+    "sort_key": 741
+  },
+  {
+    "source": "TURKTOON",
+    "enabled": false,
+    "sort_key": 742
+  },
+  {
+    "source": "ONMA",
+    "enabled": false,
+    "sort_key": 743
+  },
+  {
+    "source": "READCOMICSONLINE",
+    "enabled": false,
+    "sort_key": 744
+  },
+  {
+    "source": "ANZMANGASHD",
+    "enabled": false,
+    "sort_key": 745
+  },
+  {
+    "source": "MANGADOOR",
+    "enabled": false,
+    "sort_key": 746
+  },
+  {
+    "source": "BENTOSCAN",
+    "enabled": false,
+    "sort_key": 747
+  },
+  {
+    "source": "FRSCANSCOM",
+    "enabled": false,
+    "sort_key": 748
+  },
+  {
+    "source": "JPMANGAS",
+    "enabled": false,
+    "sort_key": 749
+  },
+  {
+    "source": "JPSCANVF",
+    "enabled": false,
+    "sort_key": 750
+  },
+  {
+    "source": "LELSCANVF",
+    "enabled": false,
+    "sort_key": 751
+  },
+  {
+    "source": "MANGA_SCAN",
+    "enabled": false,
+    "sort_key": 752
+  },
+  {
+    "source": "SCANMANGA",
+    "enabled": false,
+    "sort_key": 753
+  },
+  {
+    "source": "SCANMANGAVF_WS",
+    "enabled": false,
+    "sort_key": 754
+  },
+  {
+    "source": "SCANVF",
+    "enabled": false,
+    "sort_key": 755
+  },
+  {
+    "source": "KOMIKID",
+    "enabled": false,
+    "sort_key": 756
+  },
+  {
+    "source": "MANGAID",
+    "enabled": false,
+    "sort_key": 757
+  },
+  {
+    "source": "MANGA_DENIZI",
+    "enabled": false,
+    "sort_key": 758
+  },
+  {
+    "source": "MANGA4LIFE",
+    "enabled": false,
+    "sort_key": 759
+  },
+  {
+    "source": "MANGASEE",
+    "enabled": true,
+    "sort_key": 760
+  },
+  {
+    "source": "OTAKUSAN_EN",
+    "enabled": false,
+    "sort_key": 761
+  },
+  {
+    "source": "OTAKUSAN_VI",
+    "enabled": false,
+    "sort_key": 762
+  },
+  {
+    "source": "BAKAI",
+    "enabled": false,
+    "sort_key": 763
+  },
+  {
+    "source": "BRMANGAS",
+    "enabled": false,
+    "sort_key": 764
+  },
+  {
+    "source": "LERMANGA",
+    "enabled": false,
+    "sort_key": 765
+  },
+  {
+    "source": "LERMANGAONLINE",
+    "enabled": false,
+    "sort_key": 766
+  },
+  {
+    "source": "MANGAONLINE",
+    "enabled": false,
+    "sort_key": 767
+  },
+  {
+    "source": "MUITOHENTAI",
+    "enabled": false,
+    "sort_key": 768
+  },
+  {
+    "source": "ONEPIECEEX",
+    "enabled": false,
+    "sort_key": 769
+  },
+  {
+    "source": "YUGENMANGAS",
+    "enabled": false,
+    "sort_key": 770
+  },
+  {
+    "source": "ACOMICS",
+    "enabled": false,
+    "sort_key": 771
+  },
+  {
+    "source": "DESUME",
+    "enabled": false,
+    "sort_key": 772
+  },
+  {
+    "source": "NUDEMOON",
+    "enabled": false,
+    "sort_key": 773
+  },
+  {
+    "source": "REMANGA",
+    "enabled": false,
+    "sort_key": 774
+  },
+  {
+    "source": "ALLHENTAI",
+    "enabled": false,
+    "sort_key": 775
+  },
+  {
+    "source": "MINTMANGA",
+    "enabled": false,
+    "sort_key": 776
+  },
+  {
+    "source": "READMANGA_RU",
+    "enabled": false,
+    "sort_key": 777
+  },
+  {
+    "source": "SELFMANGA",
+    "enabled": false,
+    "sort_key": 778
+  },
+  {
+    "source": "HENCHAN",
+    "enabled": false,
+    "sort_key": 779
+  },
+  {
+    "source": "MANGACHAN",
+    "enabled": false,
+    "sort_key": 780
+  },
+  {
+    "source": "YAOICHAN",
+    "enabled": false,
+    "sort_key": 781
+  },
+  {
+    "source": "HENTAILIB",
+    "enabled": false,
+    "sort_key": 782
+  },
+  {
+    "source": "MANGALIB",
+    "enabled": false,
+    "sort_key": 783
+  },
+  {
+    "source": "YAOILIB",
+    "enabled": false,
+    "sort_key": 784
+  },
+  {
+    "source": "SCANVFORG",
+    "enabled": false,
+    "sort_key": 785
+  },
+  {
+    "source": "SCANITA",
+    "enabled": false,
+    "sort_key": 786
+  },
+  {
+    "source": "GUFENGMH",
+    "enabled": false,
+    "sort_key": 787
+  },
+  {
+    "source": "MANGAAY",
+    "enabled": false,
+    "sort_key": 788
+  },
+  {
+    "source": "SADSCANS",
+    "enabled": false,
+    "sort_key": 789
+  },
+  {
+    "source": "TRWEBTOON",
+    "enabled": false,
+    "sort_key": 790
+  },
+  {
+    "source": "YAOIFLIX",
+    "enabled": false,
+    "sort_key": 791
+  },
+  {
+    "source": "HENTAIUKR",
+    "enabled": false,
+    "sort_key": 792
+  },
+  {
+    "source": "HONEYMANGA",
+    "enabled": false,
+    "sort_key": 793
+  },
+  {
+    "source": "MANGAINUA",
+    "enabled": false,
+    "sort_key": 794
+  },
+  {
+    "source": "BLOGTRUYEN",
+    "enabled": false,
+    "sort_key": 795
+  },
+  {
+    "source": "HENTAIVN",
+    "enabled": false,
+    "sort_key": 796
+  },
+  {
+    "source": "LXMANGA",
+    "enabled": false,
+    "sort_key": 797
+  },
+  {
+    "source": "TRUYENQQ",
+    "enabled": false,
+    "sort_key": 798
+  },
+  {
+    "source": "TRUYENTRANHLH",
+    "enabled": false,
+    "sort_key": 799
+  },
+  {
+    "source": "YURINEKO",
+    "enabled": false,
+    "sort_key": 800
+  },
+  {
+    "source": "VERCOMICSPORNO",
+    "enabled": false,
+    "sort_key": 801
+  },
+  {
+    "source": "VERMANGASPORNO",
+    "enabled": false,
+    "sort_key": 802
+  },
+  {
+    "source": "XOXOCOMICS",
+    "enabled": false,
+    "sort_key": 803
+  },
+  {
+    "source": "NETTRUYEN",
+    "enabled": false,
+    "sort_key": 804
+  },
+  {
+    "source": "NETTRUYENMAX",
+    "enabled": false,
+    "sort_key": 805
+  },
+  {
+    "source": "NHATTRUYENMIN",
+    "enabled": false,
+    "sort_key": 806
+  },
+  {
+    "source": "HIJALA",
+    "enabled": false,
+    "sort_key": 807
+  },
+  {
+    "source": "LONERTL",
+    "enabled": false,
+    "sort_key": 808
+  },
+  {
+    "source": "MANGAAILAND",
+    "enabled": false,
+    "sort_key": 809
+  },
+  {
+    "source": "MANGASOUL",
+    "enabled": false,
+    "sort_key": 810
+  },
+  {
+    "source": "MANGAATREND",
+    "enabled": false,
+    "sort_key": 811
+  },
+  {
+    "source": "ROCKSMANGA_COM",
+    "enabled": false,
+    "sort_key": 812
+  },
+  {
+    "source": "YOKAITEAM",
+    "enabled": false,
+    "sort_key": 813
+  },
+  {
+    "source": "DATGARSCANLATION",
+    "enabled": false,
+    "sort_key": 814
+  },
+  {
+    "source": "ASUPANKOMIK",
+    "enabled": false,
+    "sort_key": 815
+  },
+  {
+    "source": "KLMANHUA",
+    "enabled": false,
+    "sort_key": 816
+  },
+  {
+    "source": "KOMIKGES",
+    "enabled": false,
+    "sort_key": 817
+  },
+  {
+    "source": "KOMIKREALM",
+    "enabled": false,
+    "sort_key": 818
+  },
+  {
+    "source": "MIKOROKU",
+    "enabled": false,
+    "sort_key": 819
+  },
+  {
+    "source": "MONZEEKOMIK",
+    "enabled": false,
+    "sort_key": 820
+  },
+  {
+    "source": "SHIYURASUB",
+    "enabled": false,
+    "sort_key": 821
+  },
+  {
+    "source": "SOBATMANKU",
+    "enabled": false,
+    "sort_key": 822
+  },
+  {
+    "source": "TOONCUBUS",
+    "enabled": false,
+    "sort_key": 823
+  },
+  {
+    "source": "ANIMEXNOVEL",
+    "enabled": false,
+    "sort_key": 824
+  },
+  {
+    "source": "ELEVENSCANLATOR",
+    "enabled": false,
+    "sort_key": 825
+  },
+  {
+    "source": "GALAXSCANS",
+    "enabled": false,
+    "sort_key": 826
+  },
+  {
+    "source": "GUILDATIERDRAW",
+    "enabled": false,
+    "sort_key": 827
+  },
+  {
+    "source": "HECKSCANS",
+    "enabled": false,
+    "sort_key": 828
+  },
+  {
+    "source": "LER999",
+    "enabled": false,
+    "sort_key": 829
+  },
+  {
+    "source": "MAXGSSCAN",
+    "enabled": false,
+    "sort_key": 830
+  },
+  {
+    "source": "TYRANTSCANS",
+    "enabled": false,
+    "sort_key": 831
+  },
+  {
+    "source": "WOLFSCANBR",
+    "enabled": false,
+    "sort_key": 832
+  },
+  {
+    "source": "ZSCANLATION",
+    "enabled": false,
+    "sort_key": 833
+  },
+  {
+    "source": "EPIKMAN",
+    "enabled": false,
+    "sort_key": 834
+  },
+  {
+    "source": "MIKROKOSMOSFB",
+    "enabled": false,
+    "sort_key": 835
+  },
+  {
+    "source": "SHADOWCEVIRI",
+    "enabled": false,
+    "sort_key": 836
+  },
+  {
+    "source": "SNSCOEURTURKEY",
+    "enabled": false,
+    "sort_key": 837
+  },
+  {
+    "source": "BAOZIMH",
+    "enabled": false,
+    "sort_key": 838
+  },
+  {
+    "source": "HENSEKAI",
+    "enabled": false,
+    "sort_key": 839
+  },
+  {
+    "source": "KOMIKINDO_INFO",
+    "enabled": false,
+    "sort_key": 840
+  },
+  {
+    "source": "MAID_ID",
+    "enabled": false,
+    "sort_key": 841
+  },
+  {
+    "source": "SHIRO_DOUJIN",
+    "enabled": false,
+    "sort_key": 842
+  }
+]

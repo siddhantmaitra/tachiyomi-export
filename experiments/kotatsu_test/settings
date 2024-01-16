@@ -1,0 +1,22 @@
+[
+  {
+    "details_tab": "0",
+    "grid_size": 100,
+    "list_mode_2": "GRID",
+    "reading_indicators": true,
+    "tips_closed": [
+      "btn_read",
+      "suggestions"
+    ],
+    "amoled_theme": false,
+    "no_nsfw": false,
+    "dynamic_shortcuts": true,
+    "exit_confirm": false,
+    "sources_sort_order": "MANUAL",
+    "app_locale": "",
+    "suggestions": false,
+    "theme": "-1",
+    "sources_new": true,
+    "sources_grid": false
+  }
+]

@@ -4,6 +4,7 @@
 output*
 *OuterClass.java
 *.tachibk
+*.zip
 
 
 # Maven
